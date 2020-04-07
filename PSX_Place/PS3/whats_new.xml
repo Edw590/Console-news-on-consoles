@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
-		<mtrl id="0" lastm="2020-02-17T19:03:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Apollo Save Tool v0.6.5 released</desc>
-			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_22_22340-8c47d9a887d688d076f61601dd5d5fe5.jpg</url>
-			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/apollo-save-tool-v0-6-5-released.28124/</target>
+		<mtrl id="0" lastm="2020-3-05T10:31:45.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE 4] PS3 Toolset by bguerville: A powerful collection of tools fueled by new PS3 exploit</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23333-61721f566b80cf874a0dc967a9dfcdd5.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-4-ps3-toolset-by-bguerville-a-powerful-collection-of-tools-fueled-by-new-ps3-exploit.28658/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-3-03T09:31:56.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE-4.86] PS3HEN v3.0.1 - View latest changes to the PS3 Exploit for SuperSlims &amp; nonCFW models</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23624-459d5682f505b859f100103453c7d1c2.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-4-86-ps3hen-v3-0-1-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-3-02T09:03:44.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>4.86.1 REBUG LITE EDITION + REBUG TOOLBOX 2.03.04 MULTI RELEASED</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23587-2863330b405b4734409375852ffa73d0.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/4-86-1-rebug-lite-edition-rebug-toolbox-2-03-04-multi-released.28809/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-3-01T08:38:49.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>4.86.1 PS3 HFW (Hybrid Firmware) - HFW is helpful for installing PS3HEN on 4.84/4.85/4.86 FW</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_14_14130-0ca743326aeaeef88e3e124ff8490c9b.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/4-86-1-ps3-hfw-hybrid-firmware-hfw-is-helpful-for-installing-ps3hen-on-4-84-4-85-4-86-fw.23094/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-3-06T10:50:58.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>[UPDATE: April 5th, '20] HW Acceleration (RSX) Project Update by @ReneRebeTM</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_12_12453-5c0db8f56bc95f59d1686b1b46b28643.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-april-5th-20-hw-acceleration-rsx-project-update-by-renerebetm.21370/</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
