@@ -1,4 +1,6 @@
-document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN Toolbox Unofficial - PSX-Place news</title> <link href="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/ERROR.png" rel="icon" type="image/x-icon"/> <style> html { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; max-width: 100%; left: 100%; overflow-x: hidden; position: relative; } body { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; max-width: 100%; left: -100%; overflow-x: hidden; position: relative; } a { color: inherit; text-decoration: none; } .disable_select { -o-user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; } .inline { float:left; } #everything { margin-left:8px; margin-right:8px; margin-top:100px; height: 85%; position: absolute; } #title_div { font-family: arial; font-size: 25px; font-weight: bold; background-color: red; margin: 0; padding: 0; left: 0; right: 0; color: white; position: fixed; z-index: 1; } #title { display: inline-block; margin-right: auto; margin-top: 15px; margin-left: 15px; margin-bottom: 15px; text-align: left; z-index: 2; } #date_time { display: inline-block; margin-left: auto; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; float: right; z-index: 2; } #footer_div { font-family: arial; font-size: 15px; color: black; background-color: #07b315; margin: 0; padding: 0; bottom: 0; left: 0; right: 0; position: fixed; z-index: 1; } #footer_div > div { display: inline-block; margin-top: 10px; margin-bottom: 10px; float: left; z-index: 2; } #ofw_version { margin-left: 10px; } .article_shape { background-color: lightgrey; -o-border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px; border: 5px solid orange; -o-box-shadow: 5px 10px 10px; -webkit-box-shadow: 5px 10px; -moz-box-shadow: 5px 10px 10px; -ms-box-shadow: 5px 10px 10px; box-shadow: 5px 10px 10px; } .articles { margin-bottom: 10px; max-width: 750px; height: 500px; margin-right: 1%; margin-left: 1%; float: left; position: relative; } #news_popup { visibility: hidden; width: 75%; height: auto; left: 0; right: 0; margin: auto auto; position:fixed; } .article_titles { text-align: center; color: white; background-color: black; text-decoration: none; padding: 10px; } .continue_to_threads { background-color: orange; padding: 15px; } .continue_to_threads:hover { text-decoration: underline; background-color: darkorange; } .continue_to_threads:active { background-color: orangered; } .descriptions_plus_pictures { text-align: center; } .descriptions { width: 95%; margin: auto auto; } .show_description { position: absolute; bottom: 25px; left: 37%; margin-left: -50%; display: table; margin: 0 auto; } .hide_description { left: 35%; margin-left: -50%; display: table; margin: 0 auto; } .pictures { width: 90%; max-width: 500px; max-height: 300px; } </style> </head> <body> <div id="title_div"> <div id="title" class="disable_select">PSX-Place news</div> </div> <div id="everything" class="disable_select" style="text-align: center;"> <div id="news_popup" class= "article_shape"></div> </div> <div id="footer_div"> <div id="ofw_version" class="disable_select">Current OFW version: Error</div> <div class="inline">&nbsp; / &nbsp;</div> <div id="hfw_version" class="disable_select">Current HFW version: Error</div> </div> </body> </html>');
+document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN Toolbox Unofficial - PSX-Place news</title> <link href="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/ERROR.png" rel="icon" type="image/x-icon"/> <style> html { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; max-width: 100%; left: 100%; overflow-x: hidden; position: relative; } body { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; max-width: 100%; left: -100%; overflow-x: hidden; position: relative; } a { color: inherit; text-decoration: none; } .disable_select { -o-user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; } .inline { float:left; } #everything { margin-left:8px; margin-right:8px; margin-top:100px; height: 85%; position: absolute; } #title_div { font-family: arial; font-size: 25px; font-weight: bold; background-color: red; margin: 0; padding: 0; left: 0; right: 0; color: white; position: fixed; z-index: 1; } #title { display: inline-block; margin-right: auto; margin-top: 15px; margin-left: 15px; margin-bottom: 15px; text-align: left; z-index: 2; } #date_time { display: inline-block; margin-left: auto; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; float: right; z-index: 2; } #footer_div { font-family: arial; font-size: 15px; color: black; background-color: #07b315; margin: 0; padding: 0; bottom: 0; left: 0; right: 0; position: fixed; z-index: 1; } #footer_div > div { display: inline-block; margin-top: 10px; margin-bottom: 10px; float: left; z-index: 2; } #ofw_version { margin-left: 10px; } .article_shape { background-color: lightgrey; -o-border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px; border: 5px solid orange; -o-box-shadow: 5px 10px 10px; -webkit-box-shadow: 5px 10px; -moz-box-shadow: 5px 10px 10px; -ms-box-shadow: 5px 10px 10px; box-shadow: 5px 10px 10px; } .articles { margin-bottom: 10px; max-width: 750px; height: 500px; margin-right: 1%; margin-left: 1%; float: left; position: relative; } #news_popup { visibility: hidden; width: 75%; height: auto; left: 0; right: 0; margin: auto auto; position:fixed; } .article_titles { text-align: center; color: white; background-color: black; text-decoration: none; padding: 10px; } .continue_to_threads { background-color: orange; padding: 15px; } .continue_to_threads:hover { text-decoration: underline; background-color: darkorange; } .continue_to_threads:active { background-color: orangered; } .descriptions_plus_pictures { text-align: center; } .descriptions { width: 95%; margin: auto auto; } .show_description { position: absolute; bottom: 25px; left: 37%; margin-left: -50%; display: table; margin: 0 auto; } .hide_description { left: 35%; margin-left: -50%; display: table; margin: 0 auto; } .pictures { width: 90%; max-width: 500px; max-height: 300px; } </style> </head> <body> <div id="title_div"> <div id="title" class="disable_select">PSX-Place news</div> <div id="date_time" class="disable_select" style="display: none;">Error obtaining date and time</div> </div> <div id="everything" class="disable_select" style="text-align: center;"> <div id="news_popup" class= "article_shape"></div> </div> <div id="footer_div"> <div id="ofw_version" class="disable_select">Current OFW version: Error</div> <div class="inline">&nbsp; / &nbsp;</div> <div id="hfw_version" class="disable_select">Current HFW version: Error</div> </div> </body> </html>');
+
+		//enable_date_time_checker();
 
 		var documentElement = document.documentElement;
 
@@ -29,7 +31,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 		/////////////////////////////////
 		// Popup the selected article
 		var function_num = -1;
-		var no_idea = document.getElementById('everything');
+		var no_idea = document.getElementById("everything");
 		try {
 			no_idea.matches("no_idea");
 			function_num = 0;
@@ -112,7 +114,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 					if (whats_new_xml[i].indexOf("<desc>") != -1) {
 						article_titles.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</desc>")));
 					} else if (whats_new_xml[i].indexOf('<target type="u">') != -1) {
-						links.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf('</target>')));
+						links.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</target>")));
 					} else if (whats_new_xml[i].indexOf("<dadi590_description>") != -1) {
 						descriptions.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</dadi590_description>")));
 					} else if (whats_new_xml[i].indexOf("<dadi590_creator>") != -1) {
@@ -130,16 +132,16 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 		}
 
 		function create_article(main_div, article_num) {
-			var childElement = document.createElement('h3');
+			var childElement = document.createElement("h3");
 			childElement.setAttribute("class", "article_titles");
 			var appendChildElement = main_div.appendChild(childElement);
 			appendChildElement.innerHTML = article_titles[article_num];//'<a href="'+links[article_num]+'" target="_blank">'+article_titles[article_num]+'</a>';
 
-			childElement = document.createElement('p');
+			childElement = document.createElement("p");
 			appendChildElement = main_div.appendChild(childElement);
 			appendChildElement.innerHTML = "Posted by "+authors[article_num]+" on "+dates[article_num];
 
-			childElement = document.createElement('div');
+			childElement = document.createElement("div");
 			childElement.setAttribute("class", "descriptions_plus_pictures");
 			appendChildElement = main_div.appendChild(childElement);
 
@@ -156,21 +158,21 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 			new_description+="</div>";
 			appendChildElement.innerHTML = new_description;
 
-			childElement = document.createElement('p');
+			childElement = document.createElement("p");
 			appendChildElement = main_div.appendChild(childElement);
 			//childElement.setAttribute("class", 'more'+(article_num+1));
-			childElement.setAttribute("style", 'display:none;');
+			childElement.setAttribute("style", "display:none;");
 			appendChildElement.innerHTML = "Link to the thread: "+links[article_num];
 
-			childElement = document.createElement('p');
+			childElement = document.createElement("p");
 			//childElement.setAttribute("class", 'continue_to_threads disable_select more'+(article_num+1));
-			childElement.setAttribute("style", 'display:none;');
+			childElement.setAttribute("style", "display:none;");
 			appendChildElement = main_div.appendChild(childElement);
 			appendChildElement.innerHTML = '<a href="'+links[article_num]+'" target="_blank">'+"Continue to the thread"+'</a>';
 		}
 		
 		function process_page() {
-			var everything = document.getElementById('everything');
+			var everything = document.getElementById("everything");
 			var rows_separator;
 			var articles_per_row_final;
 
@@ -262,7 +264,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 				fill_rest_of_articles(articles_in_last_the_row);
 			}
 
-			document.querySelector('.articles').style.width = article_width_final;
+			document.querySelector(".articles").style.width = article_width_final;
 			var articles = document.getElementsByClassName("articles");
 			for (var i = 0; i < articles.length; i++) {
 				articles[i].style.width=article_width_final;
@@ -277,10 +279,10 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 					article_create.setAttribute("style", "visibility: hidden; height: 0px;");
 					var article = rows_separator.appendChild(article_create);
 
-					var childElement = document.createElement('h3');
+					var childElement = document.createElement("h3");
 					childElement.setAttribute("class", "article_titles");
 					var appendChildElement = article.appendChild(childElement);
-					appendChildElement.innerHTML = '3234_FILL_ACTICLES_SPACE This is solely to fill the rest of the space / This is solely to fill the rest of the space';
+					appendChildElement.innerHTML = "3234_FILL_ACTICLES_SPACE This is solely to fill the rest of the space / This is solely to fill the rest of the space";
 				}
 			}
 		}
@@ -300,15 +302,15 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 			}
 
 			current_y_scroll_position = getBodyScrollTop();
-			document.getElementsByTagName('body')[0].style.overflowY = "hidden";
+			document.getElementsByTagName("body")[0].style.overflowY = "hidden";
 
-			var news_popup = document.getElementById('news_popup');
+			var news_popup = document.getElementById("news_popup");
 
 			create_article(news_popup, description_number-1);
 
-			document.getElementById('description'+description_number).style.display = "block";
-			document.getElementById('show_description'+description_number).style.display = "none";
-			document.getElementById('hide_description'+description_number).style.display = "block";
+			document.getElementById("description"+description_number).style.display = "block";
+			document.getElementById("show_description"+description_number).style.display = "none";
+			document.getElementById("hide_description"+description_number).style.display = "block";
 
 			news_popup.style.visibility = "visible";
 
@@ -332,7 +334,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 				articles[i].style.visibility = "visible";
 			}
 
-			document.getElementsByTagName('body')[0].style.overflowY = "visible";
+			document.getElementsByTagName("body")[0].style.overflowY = "visible";
 			setBodyScrollTop(current_y_scroll_position);
 			document.getElementById("news_popup").innerHTML = "";
 		}
@@ -349,10 +351,10 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 			var oldresize = window.onresize;
 			window.onresize = function(e) {
 				var event = window.event || e;
-				if(typeof(oldresize) === 'function' && !oldresize.call(window, event)) {
+				if(typeof(oldresize) === "function" && !oldresize.call(window, event)) {
 					return false;
 				}
-				if (typeof(window.onzoom) === 'function') {
+				if (typeof(window.onzoom) === "function") {
 					current_y_scroll_position = getBodyScrollTop();
 					if (opened_description!=-1) {
 						document.querySelector("#news_popup").innerHTML = "";
@@ -377,7 +379,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 			var update_date_time = setInterval(function () {
 				var now = new Date();
 				var dd = now.getDate();
-				var mm = now.getMonth();//String(now.getMonth() + 1).padStart(2, '0'); //January is 0!
+				var mm = now.getMonth();//String(now.getMonth() + 1).padStart(2, "0"); //January is 0!
 				var yyyy = now.getFullYear();
 				var HH = now.getHours();
 				var MM = now.getMinutes();
@@ -392,7 +394,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 					ss = "0"+ss;
 				}
 
-				now = monthNames[mm] + ' ' + dd + ', ' + yyyy + " - " + HH + ":" + MM + ":" + ss;
+				now = monthNames[mm] + " " + dd + ", " + yyyy + " - " + HH + ":" + MM + ":" + ss;
 
 				document.getElementById("date_time").innerHTML = now;
 			}, 1000);
