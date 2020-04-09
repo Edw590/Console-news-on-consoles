@@ -1,5 +1,220 @@
-document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN Toolbox Unofficial - PSX-Place news</title> <link href="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/ERROR.png" rel="icon" type="image/x-icon"/> <style> html { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: small; scroll-behavior: smooth; max-width: 100%; left: 100%; overflow-x: hidden; position: relative; } body { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: small; max-width: 100%; left: -100%; overflow-x: hidden; position: relative; } a { color: inherit; text-decoration: none; } .disable_select { -o-user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; } .inline { float:left; } #everything { margin-left:8px; margin-right:8px; margin-top:100px; height: 85%; position: absolute; } #title_div { font-family: arial; font-size: 25px; font-weight: bold; background-color: red; margin: 0; padding: 0; left: 0; right: 0; color: white; position: fixed; z-index: 1; } #title { display: inline-block; margin-right: auto; margin-top: 15px; margin-left: 15px; margin-bottom: 15px; text-align: left; z-index: 2; } #date_time { display: inline-block; margin-left: auto; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; float: right; z-index: 2; } #footer_div { font-family: arial; font-size: 15px; color: black; background-color: #07b315; margin: 0; padding: 0; bottom: 0; left: 0; right: 0; position: fixed; z-index: 1; } #footer_div > div { display: inline-block; margin-top: 10px; margin-bottom: 10px; float: left; z-index: 2; } #ofw_version { margin-left: 10px; } .article_shape { background-color: lightgrey; -o-border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px; border: 5px solid orange; -o-box-shadow: 5px 10px 10px; -webkit-box-shadow: 5px 10px; -moz-box-shadow: 5px 10px 10px; -ms-box-shadow: 5px 10px 10px; box-shadow: 5px 10px 10px; } .article_shape:hover { border: 5px solid blue; } .articles { margin-bottom: 10px; max-width: 750px; height: 500px; margin-right: 1%; margin-left: 1%; float: left; position: relative; } #news_popup { visibility: hidden; width: 75%; height: auto; left: 0; right: 0; margin: auto auto; position:fixed; } .article_titles { text-align: center; color: white; background-color: black; text-decoration: none; padding: 10px; } .article_titles:hover { text-decoration: underline; }.continue_to_threads { background-color: orange; padding: 15px; } .continue_to_threads:hover { text-decoration: underline; background-color: darkorange; } .continue_to_threads:active { background-color: orangered; } .descriptions_plus_pictures { text-align: center; } .descriptions { width: 95%; margin: auto auto; } .show_description { position: absolute; bottom: 25px; left: 37%; margin-left: -50%; display: table; margin: 0 auto; } .hide_description { left: 35%; margin-left: -50%; display: table; margin: 0 auto; } .pictures { width: 90%; max-width: 500px; max-height: 300px; } </style> </head> <body> <div id="title_div"> <div id="title" class="disable_select">PSX-Place news</div> <div id="date_time" class="disable_select" style="display: none;">Error obtaining date and time</div> </div> <div id="everything" class="disable_select" style="text-align: center;"> <div id="news_popup" class= "article_shape"></div> </div> <div id="footer_div"> <div id="ofw_version" class="disable_select">Current OFW version: Error</div> <div class="inline">&nbsp; / &nbsp;</div> <div id="hfw_version" class="disable_select">Current HFW version: Error</div> </div> </body> </html>');
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>HAN Toolbox Unofficial - PSX-Place news</title>
+		<link href="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/ERROR.png" rel="icon" type="image/x-icon"/>
+		<style>
+			html {
+				height: 100%;
+				width: 100%;
+				margin: 0 0;
+				font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+				font-size: small;
+				scroll-behavior: smooth;
 
+				max-width: 100%;
+				left: 100%; overflow-x: hidden; position: relative;
+			}
+			body {
+				height: 100%;
+				width: 100%;
+				margin: 0 0;
+				font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+				font-size: small;
+
+				max-width: 100%;
+				left: -100%; overflow-x: hidden; position: relative;
+			}
+			a { /*Remove hyperlinks decorations.*/
+				color: inherit;
+				text-decoration: none;
+			}
+			.disable_select {
+			  -o-user-select: none;
+			  -webkit-user-select: none;
+			  -moz-user-select: none;
+			  -ms-user-select: none;
+			  user-select: none;
+			  cursor: default;
+			}
+			.inline {
+				float:left;
+			}
+
+			#everything {
+				margin-left:8px;
+				margin-right:8px;
+				margin-top:100px;
+				height: 85%;
+				position: absolute;
+			}
+
+			#title_div {
+				font-family: arial; font-size: 25px; font-weight: bold;
+				background-color: red;
+				margin: 0;
+				padding: 0;
+				left: 0; right: 0;
+				color: white;
+				position: fixed;
+				z-index: 1;
+			}
+			#title {
+				display: inline-block;
+				margin-right: auto;
+				margin-top: 15px;
+				margin-left: 15px;
+				margin-bottom: 15px;
+				text-align: left;
+				z-index: 2;
+			}
+			#date_time {
+				display: inline-block;
+				margin-left: auto;
+				margin-top: 15px;
+				margin-right: 15px;
+				margin-bottom: 15px;
+				float: right;
+				z-index: 2;
+			}
+
+			#footer_div {
+				font-family: arial; font-size: 15px;
+				color: black;
+				background-color: #07b315;
+				margin: 0;
+				padding: 0;
+				bottom: 0;
+				left: 0; right: 0;
+				position: fixed;
+				z-index: 1;
+			}
+			#footer_div > div {
+				display: inline-block;
+				margin-top: 10px;
+				margin-bottom: 10px;
+				float: left;
+				z-index: 2;
+			}
+			#ofw_version {
+				margin-left: 10px;
+			}
+
+			.article_shape {
+				background-color: lightgrey;
+				-o-border-radius: 10px;
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				-ms-border-radius: 10px;
+				border-radius: 10px;
+				border: 5px solid orange;
+				-o-box-shadow: 5px 10px 10px;
+				-webkit-box-shadow: 5px 10px;
+				-moz-box-shadow: 5px 10px 10px;
+				-ms-box-shadow: 5px 10px 10px;
+				box-shadow: 5px 10px 10px;
+			}
+			.article_shape:hover {
+				border: 5px solid blue;
+			}
+			.articles {
+				margin-bottom: 10px;
+				max-width: 750px;
+				height: 500px;
+				margin-right: 1%;
+				margin-left: 1%;
+				float: left;
+				position: relative;
+			}
+			#news_popup {
+				visibility: hidden;
+				width: 75%;
+				height: auto;
+				left: 0; right: 0;
+				margin: auto auto;
+				position:fixed;
+			}
+
+			.article_titles {
+				text-align: center;
+				color: white;
+				background-color: black;
+				text-decoration: none;
+				padding: 10px;
+			}
+			.article_titles:hover {
+				text-decoration: underline;
+			}
+			.continue_to_threads {
+				background-color: orange;
+				padding: 15px;
+			}
+			.continue_to_threads:hover {
+				text-decoration: underline;
+				background-color: darkorange;
+			}
+			.continue_to_threads:active {
+				background-color: orangered;
+			}
+			.descriptions_plus_pictures {
+				text-align: center;
+			}
+			.descriptions {
+				width: 95%;
+				margin: auto auto;
+			}
+			.show_description {
+				position: absolute;
+				bottom: 25px;
+				left: 37%;
+				margin-left: -50%;
+				display: table;
+				margin: 0 auto;
+			}
+			.hide_description {
+				left: 35%;
+				margin-left: -50%;
+				display: table;
+				margin: 0 auto;
+			}
+
+			/*PÕE A JANELA DE DESCRIÇÃO COM ALTURA DEPENDENTE DO ESPAÇO DISPONÍVEL COM AS DUAS BARRAS DE INFORMAÇÃO!!!!!!
+			NÃO. VÊ COMO ANDAR PARA BAIXO QUANDO A LIGAS. EXEMPLO: VER NO ECRÃ DO PORTÁTIL A DESCRIÇÃO.
+
+			PÕE A ALTURA DOS ARTIGOS DEPENDENTE DA LARGURA!!!!!!!!!!!!!!!
+
+			NO FIM DA PÁGINA, OS ARTIGOS FICAM POR BAIXO DA BARRA VERDE!!!!!!!!!!!!*/
+
+			.pictures {
+				width: 90%;
+				max-width: 500px;
+				max-height: 300px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="title_div">
+			<div id="title" class="disable_select">PSX-Place news</div>
+			<div id="date_time" class="disable_select" style="display: none;">Error obtaining date and time</div>
+		</div>
+		<div id="everything" class="disable_select" style="text-align: center;">
+			<div id="news_popup" class= "article_shape"></div>
+			<!--<div class="articles">
+				<h3 class="article_titles"><a href="https://www.psx-place.com/threads/the-power-supply-vol-i-featuring-a-chat-with-developer-deank-creator-of-multiman-webman.28126/">The Power Supply (vol. I) Featuring a chat with developer deank (creator of multiMAN / webMAN & ...)</a></h3>
+				<p>by STLcardsWS on Mon, 10 Feb 2020 17:07:21</p>
+				<div class="descriptions_plus_pictures"><img src="https://www.psx-place.com/data/attachments/22/22253-83907afe9877d34439be7388b1802db1.jpg" width="90%"><p><b><a href="javascript:show_description('+(i+1)+')">Show description</a>&nbsp; / &nbsp; <a href="javascript:hide_description('+(i+1)+')">Hide description</a></b></p><div class="description'+(i+1)+'" style="display:none;"><br><br><div style="text-align: center">In this inaugural edition of<a href="https://www.psx-place.com/threads/introducing-the-power-supply-a-new-developer-interview-series-1st-interview-launching-soon.28144/" class="internalLink"> <b><span style="color: #006600">The Power Supply </span></b></a><b>(<span style="font-family: 'Courier New'">A new developer interview series</span>)</b> we have the pleasure to interview one of the legendary developer's of the PlayStation Homebrew Community. A developer whom has contributed on a variety of projects and been a master of some of his own . Very well known in the PS3 scene, this dev is responsible for projects that include the AIO Homebrew known as <span style="color: #006600"><b>multiMAN</b></span>, or the popular ps3 plugin known as<span style="color: #006600"> <b>webMAN </b></span><span style="font-size: 12px">(not to be confused with a forked version called webMAN MOD by aldostools). </span>Then later on the emergence of the <span style="color: #006600"><b>sMAN</b></span> plugin can be from only one person and that developer is of course <span style="color: #0000b3"><b><a href="https://www.psx-place.com/members/26378/" class="username" data-user="26378, @deank">@deank</a></b></span> . The developer has graciously given us some time for a Q/A interview to kick of this new series. Dean will give us a bit of insight on himself, along with his development journey on the PS3 . Also, we have asked the developer if he still has plans for a multiMAN (PS4) release after a small hint in the past that suggested the developer at least was contemplating the idea , Also, does Dean have any immediate plans for future development on the PS3/4, We have these answers and more from himself in the discussion below, so lets dive into:.​</div> <br/><br/></div></div>
+				<p>Link to the thread: https://www.psx-place.com/threads/the-power-supply-vol-i-featuring-a-chat-with-developer-deank-creator-of-multiman-webman.28126/</p>
+				<h3 class="continue_to_threads disable_select">Continue to the thread</h3>
+			</div>-->
+		</div>
+		<div id="footer_div">
+			<div id="ofw_version" class="disable_select">Current OFW version: Error</div>
+			<div class="inline">&nbsp; / &nbsp;</div>
+			<div id="hfw_version" class="disable_select">Current HFW version: Error</div>
+		</div>
+	</body>
+	<script>
 		//enable_date_time_checker();
 
 		var documentElement = document.documentElement;
@@ -382,3 +597,5 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 		}
 		// Utilities
 		/////////////////////////////////
+	</script>
+</html>
