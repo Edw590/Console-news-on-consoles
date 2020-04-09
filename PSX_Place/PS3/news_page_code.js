@@ -179,7 +179,7 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 			var max_articles_per_row = 3;
 			var min_articles_per_row = 1;
 
-			var min_article_width = 400;
+			var min_article_width = 300;
 			var max_article_width = 750;
 
 			var body_width = document.body.clientWidth;
