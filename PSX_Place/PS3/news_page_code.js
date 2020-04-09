@@ -1,4 +1,4 @@
-document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN Toolbox Unofficial - PSX-Place news</title> <link href="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/ERROR.png" rel="icon" type="image/x-icon"/> <style> html { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: small; max-width: 100%; left: 100%; overflow-x: hidden; position: relative; } body { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: small; max-width: 100%; left: -100%; overflow-x: hidden; position: relative; } a { color: inherit; text-decoration: none; } .disable_select { -o-user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; } .inline { float:left; } #everything { margin-left:8px; margin-right:8px; margin-top:100px; height: 85%; position: absolute; } #title_div { font-family: arial; font-size: 25px; font-weight: bold; background-color: red; margin: 0; padding: 0; left: 0; right: 0; color: white; position: fixed; z-index: 1; } #title { display: inline-block; margin-right: auto; margin-top: 15px; margin-left: 15px; margin-bottom: 15px; text-align: left; z-index: 2; } #date_time { display: inline-block; margin-left: auto; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; float: right; z-index: 2; } #footer_div { font-family: arial; font-size: 15px; color: black; background-color: #07b315; margin: 0; padding: 0; bottom: 0; left: 0; right: 0; position: fixed; z-index: 1; } #footer_div > div { display: inline-block; margin-top: 10px; margin-bottom: 10px; float: left; z-index: 2; } #ofw_version { margin-left: 10px; } .article_shape { background-color: lightgrey; -o-border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px; border: 5px solid orange; -o-box-shadow: 5px 10px 10px; -webkit-box-shadow: 5px 10px; -moz-box-shadow: 5px 10px 10px; -ms-box-shadow: 5px 10px 10px; box-shadow: 5px 10px 10px; } .articles { margin-bottom: 10px; max-width: 750px; height: 500px; margin-right: 1%; margin-left: 1%; float: left; position: relative; } #news_popup { visibility: hidden; width: 75%; height: auto; left: 0; right: 0; margin: auto auto; position:fixed; } .article_titles { text-align: center; color: white; background-color: black; text-decoration: none; padding: 10px; } .article_titles:hover { text-decoration: underline; }.continue_to_threads { background-color: orange; padding: 15px; } .continue_to_threads:hover { text-decoration: underline; background-color: darkorange; } .continue_to_threads:active { background-color: orangered; } .descriptions_plus_pictures { text-align: center; } .descriptions { width: 95%; margin: auto auto; } .show_description { position: absolute; bottom: 25px; left: 37%; margin-left: -50%; display: table; margin: 0 auto; } .hide_description { left: 35%; margin-left: -50%; display: table; margin: 0 auto; } .pictures { width: 90%; max-width: 500px; max-height: 300px; } </style> </head> <body> <div id="title_div"> <div id="title" class="disable_select">PSX-Place news</div> <div id="date_time" class="disable_select" style="display: none;">Error obtaining date and time</div> </div> <div id="everything" class="disable_select" style="text-align: center;"> <div id="news_popup" class= "article_shape"></div> </div> <div id="footer_div"> <div id="ofw_version" class="disable_select">Current OFW version: Error</div> <div class="inline">&nbsp; / &nbsp;</div> <div id="hfw_version" class="disable_select">Current HFW version: Error</div> </div> </body> </html>');
+document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN Toolbox Unofficial - PSX-Place news</title> <link href="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/ERROR.png" rel="icon" type="image/x-icon"/> <style> html { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: small; max-width: 100%; left: 100%; overflow-x: hidden; position: relative; } body { height: 100%; width: 100%; margin: 0 0; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: small; max-width: 100%; left: -100%; overflow-x: hidden; position: relative; } a { color: inherit; text-decoration: none; } .disable_select { -o-user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; } .inline { float:left; } #everything { margin-left:8px; margin-right:8px; margin-top:100px; height: 85%; position: absolute; } #title_div { font-family: arial; font-size: 25px; font-weight: bold; background-color: red; margin: 0; padding: 0; left: 0; right: 0; color: white; position: fixed; z-index: 1; } #title { display: inline-block; margin-right: auto; margin-top: 15px; margin-left: 15px; margin-bottom: 15px; text-align: left; z-index: 2; } #date_time { display: inline-block; margin-left: auto; margin-top: 15px; margin-right: 15px; margin-bottom: 15px; float: right; z-index: 2; } #footer_div { font-family: arial; font-size: 15px; color: black; background-color: #07b315; margin: 0; padding: 0; bottom: 0; left: 0; right: 0; position: fixed; z-index: 1; } #footer_div > div { display: inline-block; margin-top: 10px; margin-bottom: 10px; float: left; z-index: 2; } #ofw_version { margin-left: 10px; } .article_shape { background-color: lightgrey; -o-border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px; border: 5px solid orange; -o-box-shadow: 5px 10px 10px; -webkit-box-shadow: 5px 10px; -moz-box-shadow: 5px 10px 10px; -ms-box-shadow: 5px 10px 10px; box-shadow: 5px 10px 10px; } .article_shape:hover { padding-left: 10px; padding-right: 10px; -o-box-shadow: 20px 10px 10px; -webkit-box-shadow: 20px 10px 10px; -moz-box-shadow: 20px 10px 10px; -ms-box-shadow: 20px 10px 10px; box-shadow: 20px 10px 10px; } .articles { margin-bottom: 10px; max-width: 750px; height: 500px; margin-right: 1%; margin-left: 1%; float: left; position: relative; } #news_popup { visibility: hidden; width: 75%; height: auto; left: 0; right: 0; margin: auto auto; position:fixed; } .article_titles { text-align: center; color: white; background-color: black; text-decoration: none; padding: 10px; } .article_titles:hover { text-decoration: underline; }.continue_to_threads { background-color: orange; padding: 15px; } .continue_to_threads:hover { text-decoration: underline; background-color: darkorange; } .continue_to_threads:active { background-color: orangered; } .descriptions_plus_pictures { text-align: center; } .descriptions { width: 95%; margin: auto auto; } .show_description { position: absolute; bottom: 25px; left: 37%; margin-left: -50%; display: table; margin: 0 auto; } .hide_description { left: 35%; margin-left: -50%; display: table; margin: 0 auto; } .pictures { width: 90%; max-width: 500px; max-height: 300px; } </style> </head> <body> <div id="title_div"> <div id="title" class="disable_select">PSX-Place news</div> <div id="date_time" class="disable_select" style="display: none;">Error obtaining date and time</div> </div> <div id="everything" class="disable_select" style="text-align: center;"> <div id="news_popup" class= "article_shape"></div> </div> <div id="footer_div"> <div id="ofw_version" class="disable_select">Current OFW version: Error</div> <div class="inline">&nbsp; / &nbsp;</div> <div id="hfw_version" class="disable_select">Current HFW version: Error</div> </div> </body> </html>');
 
 		//enable_date_time_checker();
 
@@ -25,38 +25,6 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 		//dates.push('Mon, 10 Feb 2020 17:07:21');
 		//links.push('https://www.psx-place.com/threads/the-power-supply-vol-i-featuring-a-chat-with-developer-deank-creator-of-multiman-webman.28126/' );
 		httpGet(xml_URL);
-
-		enable_selected_article_checker();
-
-		/////////////////////////////////
-		// Popup the selected article
-		var function_num = -1;
-		var no_idea = document.getElementById("everything");
-		try {
-			no_idea.matches("no_idea");
-			function_num = 0;
-		} catch (err) {
-			try {
-				no_idea.webkitMatchesSelector("no_idea");
-				function_num = 1;
-			} catch (err) {
-				try {
-					no_idea.oMatchesSelector("no_idea");
-					function_num = 2;
-				} catch (err) {
-					try {
-						no_idea.msMatchesSelector("no_idea");
-						function_num = 3;
-					} catch (err) {
-						try {
-							no_idea.mozMatchesSelector("no_idea");
-							function_num = 4;
-						} catch (err) {
-						}
-					}
-				}
-			}
-		}
 
 		// Find the right method, call on correct element
 		function openFullscreen(element) {
@@ -400,94 +368,6 @@ document.write('<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>HAN 
 			}, 1000);
 		}
 		// Enable the date and time asynchronous checker
-		/////////////////////////////////
-
-		function enable_selected_article_checker() {
-			var selected_article = -1;
-			var articles = document.getElementsByClassName("articles");
-
-			var default_box_shadow = "5px 10px 10px";
-			var default_padding_left = "0px";
-			var default_padding_right = "0px";
-
-			var selected_box_shadow = "20px 10px 10px";
-			var selected_padding_left = "10px";
-			var selected_padding_right = "10px";
-
-			var update_date_time = setInterval(function () {
-				if (selected_article!=-1) {
-					var continuar = false;
-					if (function_num==0) {
-						if (!articles[selected_article].matches(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==1) {
-						if (!articles[selected_article].webkitMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==2) {
-						if (!articles[selected_article].oMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==3) {
-						if (!articles[selected_article].msMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==4) {
-						if (!articles[selected_article].mozMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					}
-					if (continuar) {
-						articles[selected_article].style.boxShadow = default_box_shadow;
-						articles[selected_article].style.mozboxShadow = default_box_shadow;
-						articles[selected_article].style.msboxShadow = default_box_shadow;
-						articles[selected_article].style.webkitboxShadow = default_box_shadow;
-						articles[selected_article].style.oboxShadow = default_box_shadow;
-						articles[selected_article].style.paddingRight = default_padding_right;
-						articles[selected_article].style.paddingLeft = default_padding_left;
-						selected_article = -1;
-					}
-				}
-				for (var i = 0; i < articles.length; i++) {
-					//console.log(articles[i].matches(":hover"))
-					var continuar = false;
-					if (function_num==0) {
-						if (articles[i].matches(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==1) {
-						if (articles[i].webkitMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==2) {
-						if (articles[i].oMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==3) {
-						if (articles[i].msMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					} else if (function_num==4) {
-						if (articles[i].mozMatchesSelector(":hover")) {
-							continuar = true;
-						}
-					}
-					if (continuar) {
-						articles[i].style.boxShadow = selected_box_shadow;
-						articles[i].style.mozboxShadow = selected_box_shadow;
-						articles[i].style.msboxShadow = selected_box_shadow;
-						articles[i].style.webkitboxShadow = selected_box_shadow;
-						articles[i].style.oboxShadow = selected_box_shadow;
-						articles[i].style.paddingRight = selected_padding_right;
-						articles[i].style.paddingLeft = selected_padding_left;
-						selected_article = i;
-						break;
-					}
-				}
-			}, 500);
-		}
-		// Popup the selected article
 		/////////////////////////////////
 
 		/////////////////////////////////
