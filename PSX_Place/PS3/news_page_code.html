@@ -470,7 +470,8 @@
 		}
 		
 		function show_description(description_number) {
-			current_y_scroll_position = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+			current_y_scroll_position = getBodyScrollTop();
+			alert(current_y_scroll_position);
 
 			var articles = document.getElementsByClassName("articles");
 			how_many_real_articles = 0;
@@ -521,7 +522,7 @@
 
 			//document.getElementsByTagName("body")[0].style.overflowY = "visible";
 			document.getElementById("news_popup").innerHTML = "";
-			window.pageYOffset = document.documentElement.scrollTop = document.body.scrollTop = current_y_scroll_position;
+			setBodyScrollTop(current_y_scroll_position);
 		}
 
 		// Global functions
@@ -590,12 +591,12 @@
 		/////////////////////////////////
 		// Utilities
 		function getBodyScrollTop() {
-			const el = document.scrollingElement || document.documentElement;
-			return el.scrollTop;
+			var scroll_Y_old = window.pageYOffset || window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.scrollingElement.scrollTop || document.body.scrollTop || 0;
+			return scroll_Y_old;
 		}
 		function setBodyScrollTop(value) {
-			const el = document.scrollingElement || document.documentElement;
-			return el.scrollTop = value;
+			var scroll_Y_new = window.pageYOffset = window.scrollY = window.pageYOffset = document.documentElement.scrollTop = document.scrollingElement.scrollTop = document.body.scrollTop = value;
+			return scroll_Y_new;
 		}
 		// Utilities
 		/////////////////////////////////
