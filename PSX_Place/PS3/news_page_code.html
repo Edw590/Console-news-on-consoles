@@ -8,23 +8,31 @@
 			html {
 				height: 100%;
 				width: 100%;
+				max-width: 100%;
 				margin: 0 0;
 				font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 				font-size: small;
 				scroll-behavior: smooth;
+				position: relative;
 
-				max-width: 100%;
-				left: 100%; overflow-x: hidden; position: relative;
+				/*left: 100%;
+				overflow: hidden;*/
+				overflow-x: hidden;
 			}
 			body {
 				height: 100%;
 				width: 100%;
+				max-width: 100%;
 				margin: 0 0;
 				font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 				font-size: small;
+				scroll-behavior: smooth;
+				position: relative;
 
-				max-width: 100%;
-				left: -100%; position: relative;
+				background-image: url("https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/XMB.jpg");
+				background-size: cover;
+  				background-attachment: fixed;
+				/*left: -100%;*/
 			}
 			a { /*Remove hyperlinks decorations.*/
 				color: inherit;
@@ -45,11 +53,11 @@
 			#everything {
 				margin-left:8px;
 				margin-right:8px;
-				margin-top:100px;
+				padding-top: 100px;
 				width: 100%;
 				height: 85%;
 				position: absolute;
-   				overflow-x: hidden;
+				/*overflow: auto;*/
 			}
 
 			#title_div {
@@ -220,11 +228,11 @@
 
 		var documentElement = document.documentElement;
 
-		openFullscreen(documentElement);
-
 		var article_titles = [], descriptions = [], authors = [], dates = [], links = [];
 
 		var opened_description = -1;
+
+		var full_screen_already_requested = false;
 
 		var current_y_scroll_position = 0;
 
@@ -360,38 +368,52 @@
 			var rows_separator;
 			var articles_per_row_final;
 
-			var max_articles_per_row = 3;
-			var min_articles_per_row = 1;
-
-			var min_article_width = 300;
+			var min_article_width = 275;
 			var max_article_width = 750;
 
 			var body_width = document.body.clientWidth;
 
-			var possible_total_width = 0;
+			function calculate_articles_per_row() {
+				var max_articles_per_row = 3;
+				var min_articles_per_row = 1;
 
-			var articles_per_row = 0;
-			var article_width = 0;
-			for (articles_per_row = max_articles_per_row; articles_per_row >= min_articles_per_row; articles_per_row--) {
-				for (article_width = max_article_width; article_width >= 0; article_width--) {
-					possible_total_width = articles_per_row * article_width;
-					//console.log(possible_total_width)
-					if (possible_total_width < body_width-50) {
-						if (possible_total_width >= min_article_width) {
-							stop = true;
-							break;
+				var possible_total_width = 0;
+
+				var articles_per_row = 0;
+				var article_width = 0;
+				for (articles_per_row = max_articles_per_row; articles_per_row >= min_articles_per_row; articles_per_row--) {
+					var stop = false;
+					for (article_width = max_article_width; article_width >= min_article_width; article_width--) {
+						possible_total_width = articles_per_row * article_width;
+						//alert(possible_total_width)
+						if (possible_total_width < body_width-50) {
+							if (possible_total_width >= min_article_width) {
+								stop = true;
+								break;
+							}
 						}
 					}
+					if (stop) {
+						break;
+					}
 				}
-				if (stop) {
-					break;
-				}
+
+				//alert(body_width+" / "+possible_total_width+" / "+articles_per_row+" / "+article_width);
+
+				articles_per_row_final = articles_per_row;
 			}
 
-			//alert(body_width+" / "+possible_total_width+" / "+articles_per_row+" / "+article_width);
+			calculate_articles_per_row();
 
-			articles_per_row_final = articles_per_row;
-			article_width_final = article_width;
+			if (articles_per_row_final < 3) {
+				if (!full_screen_already_requested) {
+					openFullscreen(documentElement);
+					full_screen_already_requested = true;
+				}
+				calculate_articles_per_row();
+			} else {
+				full_screen_already_requested = false;
+			}
 
 			//alert(min_article_width);
 			if (articles_per_row_final < 1) {
@@ -479,8 +501,7 @@
 				articles[i].style.display = "none";
 			}
 
-			document.documentElement.scrollTop = document.body.scrollTop = 0;
-			document.documentElement.scrollLeft = document.body.scrollLeft = 0;
+			setBodyScrollTop(0);
 			//document.getElementsByTagName("body")[0].style.overflowY = "hidden";
 
 			var news_popup = document.getElementById("news_popup");
@@ -578,7 +599,7 @@
 		/////////////////////////////////
 		// Utilities
 		function getBodyScrollTop() {
-			var scroll_Y_old = window.pageYOffset || window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+			var scroll_Y_old = window.pageYOffset || window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
 			return scroll_Y_old;
 		}
 		function setBodyScrollTop(value) {
