@@ -17,7 +17,6 @@
 
 				/*left: 100%;
 				overflow: hidden;*/
-				overflow-x: hidden;
 			}
 			body {
 				height: 100%;
@@ -501,6 +500,7 @@
 		
 		function show_description(description_number) {
 			current_y_scroll_position = getBodyScrollTop();
+			alert(current_y_scroll_position);
 
 			var articles = document.getElementsByClassName("articles");
 			for (var i = 0; i < articles.length; i++) {
@@ -605,12 +605,12 @@
 		/////////////////////////////////
 		// Utilities
 		function getBodyScrollTop() {
-			var scroll_Y = document.documentElement.scrollTop;
+			var scroll_Y = window.pageYOffset || window.scrollY || document.documentElement.scrollTop || document.body.scrollTop;
 			return scroll_Y;
 		}
 		function setBodyScrollTop(value) {
-			document.documentElement.scrollTop = value;
-			return value;
+			// window.pageYOffset only has getters, not setters, so it can't be used here, only above.
+			window.scrollY = document.documentElement.scrollTop = document.body.scrollTop = value;
 		}
 		// Utilities
 		/////////////////////////////////
