@@ -439,7 +439,13 @@
 
 			var article_width_final = 100/articles_per_row_final - 5;
 			if (article_width_final > 60) {
-				article_width_final = 60;
+				if (articles_per_row_final == 1) {
+					if (article_width_final > 90) {
+						article_width_final = 90;
+					}
+				} else {
+					article_width_final = 60;
+				}
 			} else if (article_width_final < 20) {
 				article_width_final = 20;
 			}
