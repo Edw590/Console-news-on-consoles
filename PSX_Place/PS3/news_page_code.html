@@ -605,12 +605,12 @@
 		/////////////////////////////////
 		// Utilities
 		function getBodyScrollTop() {
-			var scroll_Y_old = window.pageYOffset || window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
-			return scroll_Y_old;
+			var scroll_Y = document.documentElement.scrollTop;
+			return scroll_Y;
 		}
 		function setBodyScrollTop(value) {
-			var scroll_Y_new = window.pageYOffset = window.scrollY = window.pageYOffset = document.documentElement.scrollTop = document.body.scrollTop = value;
-			return scroll_Y_new;
+			document.documentElement.scrollTop = value;
+			return value;
 		}
 		// Utilities
 		/////////////////////////////////
