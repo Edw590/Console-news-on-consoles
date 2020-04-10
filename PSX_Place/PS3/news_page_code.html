@@ -14,7 +14,7 @@
 				scroll-behavior: smooth;
 
 				max-width: 100%;
-				left: 100%; overflow-x: hidden; position: relative;
+				left: 100%; position: relative;
 			}
 			body {
 				height: 100%;
@@ -590,11 +590,11 @@
 		/////////////////////////////////
 		// Utilities
 		function getBodyScrollTop() {
-			var scroll_Y_old = window.pageYOffset || window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.scrollingElement.scrollTop || document.body.scrollTop || 0;
+			var scroll_Y_old = window.pageYOffset || window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
 			return scroll_Y_old;
 		}
 		function setBodyScrollTop(value) {
-			var scroll_Y_new = window.pageYOffset = window.scrollY = window.pageYOffset = document.documentElement.scrollTop = document.scrollingElement.scrollTop = document.body.scrollTop = value;
+			var scroll_Y_new = window.pageYOffset = window.scrollY = window.pageYOffset = document.documentElement.scrollTop = document.body.scrollTop = value;
 			return scroll_Y_new;
 		}
 		// Utilities
