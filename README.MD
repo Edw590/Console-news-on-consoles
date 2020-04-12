@@ -8,8 +8,11 @@ Check the most recent console jailbreaking news
 #### For HAN (or CFW):
 - Install HAN Toolbox 0.9 Unofficial or newer (https://github.com/DADi590/HAN-Toolbox-Unofficial/releases), which comes with What's New on Browser which shows the PSX-Place/PS3 page.
 
-### On any other PlayStation (except PSP):
-Just come to this webpage: https://dadi590.github.io/Console-news-on-consoles/, which I think it's supposed to work on a PSVita, PS4 and PS5 (I don't own any of these, so I can't be sure).
+### On PSVita or newer:
+- Just come to this webpage: https://dadi590.github.io/Console-news-on-consoles/ (I think they're supposed to be able to load the page normally).
 
 ### On a PSP:
 - Not available (yet?).
+
+### On a PS1 or PS2:
+- How is this supposed to go on a console which doesn't have a browser? XD
