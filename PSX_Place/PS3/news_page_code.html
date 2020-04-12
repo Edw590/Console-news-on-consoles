@@ -605,12 +605,11 @@
 		/////////////////////////////////
 		// Utilities
 		function getBodyScrollTop() {
-			var scroll_Y = window.pageYOffset || window.scrollY || document.documentElement.scrollTop || document.body.scrollTop;
+			var scroll_Y = document.documentElement.scrollTop || document.body.scrollTop;
 			return scroll_Y;
 		}
 		function setBodyScrollTop(value) {
-			// window.pageYOffset only has getters, not setters, so it can't be used here, only above.
-			window.scrollY = document.documentElement.scrollTop = document.body.scrollTop = value;
+			document.documentElement.scrollTop = document.body.scrollTop = value;
 		}
 		// Utilities
 		/////////////////////////////////
