@@ -11,4 +11,5 @@ Check the most recent console jailbreaking news
 ### On any other PlayStation (except PSP):
 Just come to this webpage: https://dadi590.github.io/Console-news-on-consoles/, which I think it's supposed to work on a PSVita, PS4 and PS5 (I don't own any of these, so I can't be sure).
 
-### On a PSP, not available (yet?)
+### On a PSP:
+- Not available (yet?).
