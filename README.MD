@@ -3,9 +3,9 @@ Check the most recent console jailbreaking news
 
 ## To open the news webpage:
 ### On a PS3:
-- Install HAN Toolbox, which comes with What's New on Browser which shows the PS3 page.
+- Install HAN Toolbox Unofficial 0.9 or newer (https://github.com/DADi590/HAN-Toolbox-Unofficial/releases), which comes with What's New on Browser which shows the PS3 page.
 
 ### On any other PlayStation (except PSP):
-Just come to this webpage: https://dadi590.github.io/Console-news-on-consoles/
+Just come to this webpage: https://dadi590.github.io/Console-news-on-consoles/, which I think it's supposed to work on a PSVita, PS4 and PS5 (I don't own any of these, so I can't be sure).
 
 ### On a PSP, not available (yet?)
