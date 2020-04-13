@@ -309,8 +309,8 @@
 						links.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</target>")));
 					} else if (whats_new_xml[i].indexOf("<dadi590_description>") != -1) {
 						descriptions.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</dadi590_description>")));
-					} else if (whats_new_xml[i].indexOf("<dadi590_creator>") != -1) {
-						authors.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</dadi590_creator>")));
+					} else if (whats_new_xml[i].indexOf("<dadi590_creators>") != -1) {
+						authors.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf(">")+1,whats_new_xml[i].indexOf("</dadi590_creators>")));
 					} else if (whats_new_xml[i].indexOf(' lastm="') != -1 && whats_new_xml[i].indexOf('" until="') != -1) {
 						dates.push(whats_new_xml[i].substring(whats_new_xml[i].indexOf('lastm="')+7,whats_new_xml[i].indexOf('.000Z" until="')));
 					}
