@@ -503,6 +503,9 @@
 		}
 		
 		function show_description(description_number) {
+			current_y_scroll_position = getBodyScrollTop();
+
+
 			var news_popup = document.getElementById("news_popup");
 
 			create_article(news_popup, description_number-1);
@@ -513,8 +516,6 @@
 			appendChildElement = news_popup.appendChild(childElement);
 			appendChildElement.innerHTML = '<a href="'+links[description_number-1]+'" target="_blank">'+"Continue to the thread"+'</a>';
 
-
-			current_y_scroll_position = getBodyScrollTop();
 
 			var articles = document.getElementsByClassName("articles");
 			for (var i = 0; i < articles.length; i++) {
@@ -546,6 +547,7 @@
 
 			//document.getElementsByTagName("body")[0].style.overflowY = "visible";
 			document.getElementById("news_popup").innerHTML = "";
+			
 			setBodyScrollTop(current_y_scroll_position);
 		}
 
