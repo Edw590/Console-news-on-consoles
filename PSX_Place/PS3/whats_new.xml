@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-4-01T20:04:10.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE] First Alpha Build released! - N64 Emulation Progressing on PS Vita by @Rinnegatamante</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23869-5cdff5a1d42ab35ce4ec014c7cecce40.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-first-alpha-build-released-n64-emulation-progressing-on-ps-vita-by-rinnegatamante.29064/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23869-5cdff5a1d42ab35ce4ec014c7cecce40.jpg"><br><br><div style="text-align: center"><span style="color: #ff0000"><b>Update (May 1st):</b></span><b> See latest progressed details, (PoC) <span style="color: #ff0000">First Alpha Build released!</span> (see video)</b><hr/>Developer <a href="https://twitter.com/Rinnegatamante" target="_blank" class="externalLink" rel="nofollow"><span style="color: #000066"><b>Rinnegatamante</b></span></a> who we<a href="https://www.psx-place.com/threads/the-power-supply-vol-05-a-chat-with-ps-vita-developer-rinnegatamante.28318/" class="internalLink"> <i><span style="color: #000066">recently interviewed</span></i> </a>earlier this week in our <a href="https://www.psx-place.com/forums/the-power-supply-developer-interviews.239/" class="internalLink"><b>Power Supply Series</b></a> is back with another project as he tries to bring <span style="color: #006600"><b>Nintendo 64 emulation</b></span> to the <span style="color: #006600"><b>PS Vita</b></span>, with some assistance from <span style="color: #000066"><b>xerpi</b></span> &<b> <span style="color: #000066">masterfeizz</span></b>  . With an experimental (native) <b>Daedalus x64</b> build for the Vita (not through PSP emulation) that is utilizing VitaGL has been showing some significant progress in the early stages. First announced just a couple days ago Rinnengatamante has been posting various progress reports on the developer's official twitter and it appears there is some progress being made but still running without a dynarec currently<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-3-26T18:24:35.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[UPDATE: April 26th, '20] HW Acceleration (RSX) Project Update by @ReneRebeTM</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_12_12453-5c0db8f56bc95f59d1686b1b46b28643.jpg</url>
