@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-4-07T22:03:24.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE-2] Daedalus X64 v.0.2  Released:  N64 emulation is progressing on the PS Vita</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23869-5cdff5a1d42ab35ce4ec014c7cecce40.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-2-daedalus-x64-v-0-2-released-n64-emulation-is-progressing-on-the-ps-vita.29064/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23869-5cdff5a1d42ab35ce4ec014c7cecce40.jpg"><br><br><div style="text-align: center"><span style="color: #ff0000"><b>UPDATE<i> <span style="font-size: 12px">2</span></i> - May 6 - v0.2 Released</b></span><hr/><br/><span style="font-size: 12px"><span style="color: #ff0000"><b>(Update May 1 - <span style="color: #000000">First Alpha Build (v0.1) Release!!!</span>):</b></span></span>  Developer's <b>Rinnegatamante</b> & <b>masterfeizz</b> (provided ARM dynarec support for both Vita/3ds ports) have been making significant progress on the Vita port, while there is still improvements to be made the first build is ready for release of the first native Nintendo 64 emulation (<span style="font-size: 12px"><span style="color: #006600"><b>DaedalusX64-vitaGL</b></span></span>) on the PS Vita. Take a look at the  development timeline below for a view of some details during the development cycle that got us to this point in the recent weeks. There is a new video attached below in the timeline​</div><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-4-01T20:04:10.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[UPDATE] First Alpha Build released! - N64 Emulation Progressing on PS Vita by @Rinnegatamante</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23869-5cdff5a1d42ab35ce4ec014c7cecce40.jpg</url>
