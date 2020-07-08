@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-6-08T01:58:50.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>A New PS4 Kernel Exploit (7.02) Released by TheFl0w &amp; Bounty punched for $10,000</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_25_25233-dfd5c1ee0a08415412d032de44078d12.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/a-new-ps4-kernel-exploit-7-02-released-by-thefl0w-bounty-punched-for-10-000.30328/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_25_25233-dfd5c1ee0a08415412d032de44078d12.jpg"><br><br><div style="text-align: center"><i>The PlayStation 4 Hacking/Homebrew Scene has been a unique journey in comparison to other PlayStation platforms even those in the firmware era (psp/vita/ps3). The PS4 itself has been a bit unique, while development has always been there it has came at a slower pace and for a limited audience on back dated firmware releases. We have seen several exploited firmware on the PlayStation 4 (PS4) we started the show off with <b>1.76</b> and then through a few exploits we eventually climbed the ladder and moved onto <b>5.05</b> firmware and currently that has been the latest firmware exploited when the console has aged to 7.5x era . So a new exploit is in the desire list for many. <br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-6-07T01:07:15.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[Update(2) - New Plans (flycast)] ReDream (DreamCast Emulator)  porting to VITA from Rinnegatamante</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_24_24676-deb8698e57e84123492dd26059f01d74.jpg</url>
