@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-8-17T12:08:04.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Vita Release Round-up for August &amp; September</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26397-8ba49be4ac3bb1a7d475e753595535e5.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/vita-release-round-up-for-august-september.31162/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26397-8ba49be4ac3bb1a7d475e753595535e5.jpg"><br><br><div style="text-align: center">Well, it has been a month since our last <i><a href="https://www.psx-place.com/threads/ps-vita-and-ps-tv-mid-month-release-roundup.30809/" class="internalLink">PS Vita and PS TV Mid-Month Release Roundup</a></i>, and the Vita Scene shows no signs to slowing down anytime soon (just take a look at our ever-growing <i><a href="https://www.psx-place.com/resources/categories/ps-vita-playstation-tv.8/" class="internalLink">PS Vita Resource Section</a></i>). Another 30 days has brought us many, many more releases for end-users and developers alike. Just in these past several weeks we have seen many amazing releases for the Vita, including: the long awaited release of a plugin (<i><a href="https://www.psx-place.com/threads/update-v0-15-ge-patch-psp-native-resolution-on-the-ps-vita-for-some-games.31106/" class="internalLink">GePatch</a></i>) that <span style="color: #ff0000">allows for some PSP games to run in full resolution</span> on the PS Vita, a <i><a href="https://www.psx-place.com/threads/super-mario-64-ported-to-vita.30923/" class="internalLink">port of Super Mario 64</a></i> <span style="color: #ff0000">that is not to be confused with an emulator</span>, and speaking of emulators we saw some <span style="color: #ff0000">major updates and improvements to the Nintendo64 emulator</span> (<i><a href="https://www.psx-place.com/threads/daedalus-x64-n64-emulator-v0-5-adds-network-loading-of-roms-shaders-overlay-playtime-count.31044/" class="internalLink">Daedalus X64</a></i>), and the list continues on and on.<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-8-16T12:00:13.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>GrapheneCt's Recent PS Vita / PS TV Releases</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26350-cd64e2845a38afb512918fa8fe6c3e95.jpg</url>
