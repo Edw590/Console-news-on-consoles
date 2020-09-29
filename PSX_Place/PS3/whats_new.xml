@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-8-29T18:08:16.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Get Your ADRENALINE Pumping with TheFloW - eCFW Updates</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26601-7a682fab0dd5db24829a56067d646f90.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/get-your-adrenaline-pumping-with-theflow-ecfw-updates.31292/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26601-7a682fab0dd5db24829a56067d646f90.jpg"><br><br><div style="text-align: center">There has been a lot of commotion going on in the Vita scene regarding <span style="color: #0000ff">playing PSP games at native resolution on your PS Vita and PS TVs</span>. We first saw the release of <span style="color: #ff0000"><i>TheFloW</i></span>'s <b><a href="https://www.psx-place.com/threads/update-v0-15-ge-patch-psp-native-resolution-on-the-ps-vita-for-some-games.31106/" class="internalLink">GePatch</a></b>, which essentially is <span style="color: #0000ff">a plugin that would allow for some PSP games to utilize the Vita's hardware to run at a much better resolution</span>. Since the initial release, we have already seen <span style="color: #ff0000">11 updates</span> in less than half a month; with each new release <span style="color: #ff0000">adding more support and bringing us closer to the dream of playing all of our PSP games at full native resolution</span>.<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-8-25T16:08:23.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[UPDATE: Version 1.11] Autoplugin 2 released by @TheheroGAC &amp; ONElua Team!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23012-d80afd66331afb050f028c5a6c61a10f.jpg</url>
