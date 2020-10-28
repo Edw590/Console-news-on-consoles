@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-9-28T07:00:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>re3-vita (A port of Grand Theft Auto III for the PS Vita / PS TV) by @Rinnegatamante / @theflow0</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26931-9b0fe985702ebb6b6d35a1bafcf7c2a1.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/re3-vita-a-port-of-grand-theft-auto-iii-for-the-ps-vita-ps-tv-by-rinnegatamante-theflow0.31589/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26931-9b0fe985702ebb6b6d35a1bafcf7c2a1.jpg"><br><br><div style="text-align: center">For those of us watching the Vita scene, we have probably noticed developer <a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, [COLOR=#006600][B]@Rinnegatamante[/B][/COLOR]"><span style="color: #006600"><b>@Rinnegatamante</b></span></a> recently working on bringing a port of <b>Grand Theft Auto III</b> to the <b>PS Vita </b>and <b>PS TV</b>. If you are like me, then you probably have been <a href="https://www.twitch.tv/rinnegatamante" target="_blank" class="externalLink" rel="nofollow">watching his Twitch streams</a> showcasing the steady progress he was making, and also reading his <a href="https://twitter.com/Rinnegatamante/" target="_blank" class="externalLink" rel="nofollow">latest tweets on Twitter</a> regarding development. At that point you might start thinking, when is this going to get released? Perhaps for Christmas, or maybe on Thanksgiving... possibly a Halloween treat! Well, the short and sweet answer is that it will not be released in the future... because<span style="color: #0000ff"> <span style="color: #ff0000">Rinnegatamante just stopped by PSX-Place a few moments ago to make his official release thread for <b>re3-vita</b></span></span>.<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-9-26T06:00:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>We sadly say goodbye to a great friend of the scene  (R.I.P.)</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26641-c1b1ced32c8c4fe07fa46874ae7fa0bb.jpg</url>
