@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-10-02T09:08:17.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>OpenGL GLES 2.0 comes to the PS Vita</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27061-6290f57ada71ff31f8045d06fca019aa.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/opengl-gles-2-0-comes-to-the-ps-vita.31655/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27061-6290f57ada71ff31f8045d06fca019aa.jpg"><br><br><div style="text-align: center">These past couple of months we have seen some major ports make their way to the Vita console. First we saw the reverse engineered source code for <a href="https://www.psx-place.com/threads/update-2-super-mario-64-ported-to-vita-psp-ps2-ps3-and-ps4.30923/" class="internalLink">Super Mario 64</a> make it's way onto the Vita and PS TV, and then just last week we saw the same thing happen with <a href="https://www.psx-place.com/threads/re3-vita-a-port-of-grand-theft-auto-iii-for-the-ps-vita-ps-tv-by-rinnegatamante-theflow0.31589/" class="internalLink">Grand Theft Auto 3</a>. With Grand Theft Auto Vice City reportedly being worked on, some of us might be asking what other kind of ports might we see in the future.<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2020-10-02T09:08:17.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE v2]  Barulandia (PS3) - A Painting Game by JMGK</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26973-e0812eeb3f58a4704c56998c7535ec35.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-v2-barulandia-ps3-a-painting-game-by-jmgk.31605/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26973-e0812eeb3f58a4704c56998c7535ec35.jpg"><br><br><div style="text-align: center">Here is some new development on the PS3 with a new project by developer <b><a href="https://www.psx-place.com/members/68874/" class="username" data-user="68874, @JMGK">@JMGK</a> </b>called <span style="color: #0000b3"><b>Barulandia</b></span>, It's a painting game that has been ported to the PS3 (for use on CFW or PS3HEN). The project is written in C utilizing the <a href="https://www.psx-place.com/threads/latest-psl1ght-developments-ps3-opensdk-in-2020.31107/" class="internalLink">OpenSDK </a>on the PS3 known as <a href="https://www.psx-place.com/threads/latest-psl1ght-developments-ps3-opensdk-in-2020.31107/" class="internalLink"><b>PSl1ght,</b></a> + <b>SDL 1.3.</b> the projects source code is hosted at github (<a href="https://github.com/jmgk77/BARULANDIA.PS3/tree/master/stuff" target="_blank" class="externalLink" rel="nofollow">seen here</a>).<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-9-30T08:00:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>webMAN MOD 1.47.31 -  Various Improvements &amp; Fixes in new update dedicated to bitsbubba</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26990-2efb54ed39f417058edaeb9a09e46747.jpg</url>
