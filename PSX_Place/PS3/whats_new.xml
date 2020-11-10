@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-10-10T12:12:04.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>FB Neo RL Plus v2.12 - Support Added for TurboGrafX 16 / PC-Engine / SuperGrafx / ColecoVision</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27181-4798e0a926806faf933221229b9a0fb2.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/fb-neo-rl-plus-v2-12-support-added-for-turbografx-16-pc-engine-supergrafx-colecovision.31719/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27181-4798e0a926806faf933221229b9a0fb2.jpg"><br><br><div style="text-align: center"><a href="https://www.psx-place.com/threads/fb-neo-rl-plus.29718/" class="internalLink"><span style="color: #ff8000"><b>FB Neo RL Plus</b></span></a> has been updated to version 2.12 recently, This fork version of <b><a href="https://www.psx-place.com/members/607/" class="username" data-user="607, @CaptainCPS-X">@CaptainCPS-X</a> </b>original <a href="https://www.psx-place.com/resources/fb-alpha-rl.155/" class="internalLink"><span style="color: #ff8000"><b><span style="font-size: 12px">FB Alpha Retro Loader (RL)</span></b></span> </a>has been progressing in the absence of CPS-X by developer <b><a href="https://www.psx-place.com/members/53295/" class="username" data-user="53295, @Crystal">@Crystal</a> </b>who has forked the project last year with<a href="https://www.psx-place.com/resources/fb-alpha-rl.155/" class="internalLink"> <b><span style="color: #ff8000">FB Neo RL Plus</span></b></a>, now residing at version 2.12 this PS3 emulation project powered by <a href="https://www.psx-place.com/threads/latest-psl1ght-developments-ps3-opensdk-in-2020.31107/" class="internalLink"><span style="color: #006600"><b>PSL1GHT</b></span> <b><i><span style="font-size: 12px">(PS3's OpenSource SDK</span></i></b>) </a>has added various support for new systems making this ps3 homebrew a very appealing emulator and frontend for both PS3 CFW and PS3 HEN user's.​</div><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-10-03T10:00:12.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS Vita Monthly Round Up - October 2020</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27068-d6f91aa1474b389f673af37415844cd4.jpg</url>
