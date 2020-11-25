@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-10-25T19:15:52.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE: v1.1] re3-vita (Grand Theft Auto III for PS Vita / PS TV) by @Rinnegatamante / @theflow0</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26940-a54f36433013bdd4e605e581ea880327.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-v1-1-re3-vita-grand-theft-auto-iii-for-ps-vita-ps-tv-by-rinnegatamante-theflow0.31589/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26940-a54f36433013bdd4e605e581ea880327.jpg"><br><br><div style="text-align: center">For those of us watching the Vita scene, we have probably noticed developer <a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, [COLOR=#006600][B]@Rinnegatamante[/B][/COLOR]"><span style="color: #006600"><b>@Rinnegatamante</b></span></a> recently working on bringing a port of <span style="color: #ff0000"><b>Grand Theft Auto III</b></span> to the <b><span style="color: #0080ff">PS Vita</span> </b>and <span style="color: #0080ff"><b>PS TV</b></span>. If you are like me, then you probably have been <a href="https://www.twitch.tv/rinnegatamante" target="_blank" class="externalLink" rel="nofollow">watching his Twitch streams</a> showcasing the steady progress he was making, and also reading his <a href="https://twitter.com/Rinnegatamante/" target="_blank" class="externalLink" rel="nofollow">latest tweets on Twitter</a> regarding development. At that point you might start thinking, when is this going to get released? Perhaps for Christmas, or maybe on Thanksgiving... possibly a Halloween treat! Well, the short and sweet answer is that it will not be released in the future... because <b>Rinnegatamante just stopped by PSX-Place a few moments ago to make his official release thread for re3-vita</b>.<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-10-15T15:00:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[UPDATE v3]  Barulandia (PS3) - A Painting Game by JMGK</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_26_26973-e0812eeb3f58a4704c56998c7535ec35.jpg</url>
