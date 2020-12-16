@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-11-16T17:08:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>4.87.2: Evilnat's CFW (COBRA v8.20) Released   - First COBRA CFW Appears from known PS3 Dev</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27800-4dfa449e6363adcab71455edd63eeeec.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/4-87-2-evilnats-cfw-cobra-v8-20-released-first-cobra-cfw-appears-from-known-ps3-dev.32123/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27800-4dfa449e6363adcab71455edd63eeeec.jpg"><br><br><div style="text-align: center">Following the recent release of<a href="https://www.psx-place.com/threads/sen-enabler-tutorial-latest-releases.147/page-20#post-267778" class="internalLink"><span style="font-size: 12px"><span style="color: #0000ff"> <b>SEN Enabler</b></span></span> </a>the developer behind the homebrew app <b><a href="https://www.psx-place.com/members/76/" class="username" data-user="76, @Evilnat">@Evilnat</a></b>, has decided to create and release a Custom Firmware (CFW) for 4.87. Now,  we have the first CFW appear from a trusted source for<b> <a href="https://www.psx-place.com/threads/cfw-4-87-2-evilnat-cobra-cex.32057/" class="internalLink"><span style="color: #00b359">4.87. Evilnat's CFW</span></a></b>, the custom firmware is powered by the<b> <span style="font-size: 12px"><span style="color: #ff0000">COBRA 8.20</span></span></b> payload, making it what is known as a "Cobra CFW". Cobra CFW payload comes equipped with additional features and abilities out of the gate like background loading of plugins, ISO Support to name a few, over time a "Standard" type cfw can replicate many Cobra features in Mamba,<br/><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2020-11-14T16:08:16.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Daedalus x64 (Vita) v0.6:  N64 Emulator receives performance update &amp; new translations</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_27_27735-14b226af2bb146b80185744bee10bc0c.jpg</url>
