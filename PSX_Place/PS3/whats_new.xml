@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-0-07T09:08:23.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>OPL (Open PS2 Loader) version 1.0 Released !!!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_28_28297-daeab2b48ab580003535848cf2489c0a.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/opl-open-ps2-loader-version-1-0-released.32442/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_28_28297-daeab2b48ab580003535848cf2489c0a.jpg"><br><br><div style="text-align: center"><span style="font-family: 'Verdana'"><span style="color: #0000b3"><b><span style="font-size: 18px">It is here! Open PS2 Loader ("OPL") 1.0.0!</span></b></span><br/><br/><br/></dadi590_description>
+			<dadi590_creators>TnA</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2021-0-07T09:08:23.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS Vita Monthly Release Round Up - December 2020</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_28_28294-b1aed2d8bb515aa0e3c30f43d12e1423.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps-vita-monthly-release-round-up-december-2020.32439/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_28_28294-b1aed2d8bb515aa0e3c30f43d12e1423.jpg"><br><br><div style="text-align: center">We are officially almost one week into the year of 2021, and in this article we are going to look back and see what goodies the month of December brought your PlayStation Vita and PlayStation TV. Whether you were naughty or nice, the Vita scene developers still supplied us all with another round of amazing projects and updates. Let us take a glimpse at some of the gifts we received last month.<br/><br/><span style="color: #0000ff"><i><a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, @Rinnegatamante">@Rinnegatamante</a></i></span> was Santa's number one helper, with a total of four updates this holiday season, including three homebrew games (<a href="https://www.psx-place.com/threads/supermariowar-super-mario-multiplayer-game.31954/" class="internalLink">SuperMarioWar</a>, <a href="https://www.psx-place.com/resources/meritous.1101/" class="internalLink">mertious</a>, and <a href="https://www.psx-place.com/resources/dstroy.1102/" class="internalLink">Dstroy</a>) and an update to the super popular Nintendo 64 emulator, <a href="https://www.psx-place.com/resources/daedalusx64-vitagl.926/" class="internalLink">Daedalus X64</a>. Another one of Santa's elves, the developer by the name of <i><span style="color: #0000ff">isage</span></i> (a.k.a. <span style="color: #0000ff"><i>sarcasticat</i></span>), also game us two updates to existing homebrew games (<a href="https://www.psx-place.com/resources/open-fodder-vita.1087/" class="internalLink">Open Fodder Vita</a>, and <a href="https://www.psx-place.com/resources/devilutionx.1090/" class="internalLink">devilutionX</a>) as well as one new one (<a href="https://www.psx-place.com/resources/reminiscence.1080/" class="internalLink">REminiscence</a>). There were many, many more homebrew games and homebrew applications released this month, so please take a look at the list below for all the details. It is also important to mention <span style="color: #0000ff"><i>devnoname120</i></span> updated his <a href="https://www.psx-place.com/resources/vitabright.1093/" class="internalLink">Vitabright</a> plugin, as well as added a new user application (<a href="https://www.psx-place.com/resources/vitabright-lut-editor.1094/" class="internalLink">Vitabright Lut Editior</a>) to allow us to easily adjust the...​</div><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-0-06T09:00:06.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>re3 (A re-implementation of GTA III)  v1.2 Released:   New Improvements &amp; Optimizations</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_28_28265-4ffef6588c79c76cb82131e654a059cb.jpg</url>
