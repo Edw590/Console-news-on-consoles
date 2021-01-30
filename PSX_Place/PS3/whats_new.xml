@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-0-30T13:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Max Payne Mobile Ported to PS Vita / PS TV</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29104-d5478d9ac51626bfe4abf20476e2f0a6.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/max-payne-mobile-ported-to-ps-vita-ps-tv.32752/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29104-d5478d9ac51626bfe4abf20476e2f0a6.jpg"><br><br><div style="text-align: center">While the Vita scene patiently awaits the arrival of the next <a href="https://www.psx-place.com/tags/grand-theft-auto/" class="internalLink">Grand Theft Auto</a> ports rumored to be released soon, we have a surprise release coming from <span style="color: #0000ff"><i>fgsfds</i></span> and <span style="color: #0000ff"><i>TheFloW</i></span>. Today, the mobile version of <b>Max Payne</b> has been ported to the PS Vita / PS TV. Thanks to the recent release of TheFloW's <a href="https://www.psx-place.com/resources/kubridge.1119/" class="internalLink">kubridge</a>, developers are able to bypass dynamic recompilation limits that had been previously set in place. You can take a look at the full list of credits in our dedicated resource thread (linked below) to see all the developers who helped in bringing this game to the PS Vita / PS TV.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>tthousand</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-0-24T11:08:13.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>The Power Supply (Vol. 07) - Our Guest Today: "well known multi-console Developer @mathieulh"</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23695-c518f1f1d44349509535594eab429b26.jpg</url>
