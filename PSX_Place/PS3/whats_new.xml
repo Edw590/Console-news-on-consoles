@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-1-15T00:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>reVC-vita (GTA: Vice City) port for PS Vita  /  PSTV by @theflow0  &amp; @Rinnegatamante Released</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29575-1880eb93ea6f561096c0e4d8da56a02b.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/revc-vita-gta-vice-city-port-for-ps-vita-pstv-by-theflow0-rinnegatamante-released.32928/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29575-1880eb93ea6f561096c0e4d8da56a02b.jpg"><br><br><div style="text-align: center">The PS Vita / PlayStation TV devices are getting another great release for the Vita Homebrew Scene. Iconic developer's in the Vita Community who have done so much for the platform in  <b><a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, @Rinnegatamante">@Rinnegatamante</a> </b> and developer <b>@TheFlow</b>, have continued on another great project in a follow-up to <a href="https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/" class="internalLink"><span style="font-size: 12px"><span style="color: #0080ff"><i><span style="font-family: 'Georgia'"><b>reIII-Vita (A port of GTA III to the PS Vita)</b></span></i></span></span><span style="color: #0080ff">.</span></a>  The devs have now successfully ported another <span style="font-family: 'Times New Roman'">Grand Theft Auto</span> classic in the series & are now ready for release as they drop<span style="color: #b300b3"><b> reVC-Vita - A Port of Grand Theft Auto: Vice City</b></span> to the Vita Community.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-1-06T20:08:31.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>The Power Supply (Vol. 08) - Our Guest Today: "well-known multiconsole Developer @CelesteBlue123"</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_25_25605-49fa4d83dd3bbec5f7e9ffb3184e22d3.jpg</url>
