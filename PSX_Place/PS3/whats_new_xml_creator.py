@@ -24,7 +24,7 @@ def update_xml():
 	print("--> Updating XML...")
 	print()
 
-	URL_RSS_PSX_Place = --->RSS feed XML URL here<---
+	URL_RSS_PSX_Place = "http://fetchrss.com/rss/5d0cf1f18a93f8e1018b45675d88ea2d8a93f80f6a8b4567.xml" # My RSS feed XML on FetchRSS
 
 	response = str(urllib2.urlopen(URL_RSS_PSX_Place))
 
