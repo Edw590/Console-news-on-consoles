@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-2-01T04:08:24.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[Update v1.3] Grand Theft Auto: San Andreas now playable on the PS Vita / PSTV with new port</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29756-7732e9fa09055179518c680e59f7a1fc.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-v1-3-grand-theft-auto-san-andreas-now-playable-on-the-ps-vita-pstv-with-new-port.32975/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29756-7732e9fa09055179518c680e59f7a1fc.jpg"><br><br><div style="text-align: center"><a href="https://www.psx-place.com/threads/grand-theft-auto-san-andreas-now-playable-on-the-ps-vita-pstv-with-new-port.32975/#post-281998" class="internalLink"><span style="color: #ff0000"><b>UPDATE v1.3 Released:</b></span></a><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-1-22T02:08:27.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[Update v1.2] Grand Theft Auto: San Andreas now playable on the PS Vita / PSTV with new port</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_29_29756-7732e9fa09055179518c680e59f7a1fc.jpg</url>
