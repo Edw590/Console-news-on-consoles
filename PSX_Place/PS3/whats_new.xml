@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-5-12T22:08:44.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE-4.88] PS3HEN v3.0.3 - View latest changes to the PS3 Exploit for SuperSlims &amp; nonCFW models</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23624-459d5682f505b859f100103453c7d1c2.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-4-88-ps3hen-v3-0-3-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23624-459d5682f505b859f100103453c7d1c2.jpg"><br><br><div style="text-align: center"><b><span style="color: #FF0000"><a href="https://www.psx-place.com/threads/4-88-update-is-live-dont-update-yet.34066/" class="internalLink">4.88.1 HFW post (thanks zecoxao/Joonie)</a></span><br/><br/><br/></dadi590_description>
+			<dadi590_creators>esc0rtd3w</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-4-23T09:08:21.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[Update] Apollo Save Tool v1.6.0 released</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_23_23195-2771821255c428b8cceada509d04a929.jpg</url>
