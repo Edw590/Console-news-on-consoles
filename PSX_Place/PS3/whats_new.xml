@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-6-14T10:08:16.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>KYUHEN  PS Vita / PSTV  Homebrew Contest Winner's have been announced!!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32730-21f3c3ebccf1a3422759a1aa70d8079d.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/kyuhen-ps-vita-pstv-homebrew-contest-winners-have-been-announced.34499/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32730-21f3c3ebccf1a3422759a1aa70d8079d.jpg"><br><br><div style="text-align: center"><span style="font-family: 'Verdana'">After a couple months of development of various homebrew projects for the PS Vita and PlayStation TV, the <b>KYUHEN Contest</b> for the PS Vita has came to a close recently and now the Winners have been Announced (top 3 from each category). The Full Rankings (& Doiwnloads) can be found on the "Result" Page on the Contest's Official Website.  The Contest yielded  <span style="color: #006633"><b>36 entries</b></span>  <i><span style="font-size: 12px">(<a href="https://www.psx-place.com/threads/official-gekihen-results-winners-announced.13501/" class="internalLink">GekiHEN Contest contained 39 entries</a>)</span></i> that spawned across the following 4 categories:<i><span style="font-family: 'Courier New'"> Game 1 , Game 2, Utility, Port</span></i>. No doubt has been some impressive showing and some great projects that are now available on your Homebrew Enabled PS Vita or PlayStation TV <span style="font-size: 10px">(vita tv)</span></span>.​</div><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2021-6-14T10:08:16.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>re3-Vita (Grand Theft Auto III port) updated to v1.4</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32739-73a9395f3edc2d5836776e856f5a5688.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/re3-vita-grand-theft-auto-iii-port-updated-to-v1-4.34564/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32739-73a9395f3edc2d5836776e856f5a5688.jpg"><br><br><div style="text-align: center"><b>Recently the re3-vita (</b><i>GTA III Port</i><b>) </b>is back with a new update with the release of version 1.4, this update provided by developer <b><a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, @Rinnegatamante">@Rinnegatamante</a></b>, who has recently updated <a href="https://www.psx-place.com/threads/release-re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/" class="internalLink"><span style="color: #b35900"><b><span style="font-size: 12px">VitaQuakeIII (v1.0)</span></b> &<b><span style="font-size: 12px"> VitaVoyager (v0.8)</span></b></span></a>  Has now updated this amazing vita port of re3 with various fixes for all "game-breaking issues affecting previous release's" and v1.4 also includes some features like the inclusion of a Game Manual.  To round out the update we have support for video playback now in v1.4 and instructions in how to get your Video's converted to work on the PS Vita / PSTV, Checkout all the details below:​</div><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-6-07T07:08:15.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>VitaQuakeIII  v1.0   +  VitaVoyager v0.8:  New updates to vitaGL provides new performance boost !</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32628-4d2fbf684cad9e83bdfc49d1445ed5b9.jpg</url>
