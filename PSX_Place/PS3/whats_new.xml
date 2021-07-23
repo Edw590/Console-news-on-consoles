@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2021-6-23T14:00:02.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>RetroArch (PS2) Progress : New Cores incoming,  gpSP  (GameBoy Advance @ Full-Speed)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32838-9fecf835fd9c71435915b76ed2a9ed9b.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/retroarch-ps2-progress-new-cores-incoming-gpsp-gameboy-advance-full-speed.34680/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32838-9fecf835fd9c71435915b76ed2a9ed9b.jpg"><br><br><div style="text-align: center">Emulation on a Homebrew Enabled PS2 Console has some great progress in the past year plus,  thanks to still very much active PS2 development scene.  Developer's like <b><a href="https://www.psx-place.com/members/40893/" class="username" data-user="40893, @fjtrujy">@fjtrujy</a> </b>has <a href="https://www.psx-place.com/threads/update-x2-retroarch-ps2-preview-includes-2-cores-introducing-new-nigthly-ps2-releases.22007/" class="internalLink">ported RetroArch</a> to the PS2 about and since then has been adding more and more support for additional emulation with additional libretro core's., Recently the developer previewed some big things that  have been in the pipeline for the  PlayStation 2 port of RetroArch (a multi-system emulator).<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2021-6-23T14:00:02.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>jfduke3d-vita + jfsw-vita + vitaRTCW released + Doom3 Port in the works</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32814-3b995b0afc7fc498197f8578cc99b992.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/jfduke3d-vita-jfsw-vita-vitartcw-released-doom3-port-in-the-works.34648/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32814-3b995b0afc7fc498197f8578cc99b992.jpg"><br><br><div style="text-align: center">Following the <span style="font-size: 12px"><a href="https://www.psx-place.com/threads/kyuhen-ps-vita-pstv-homebrew-contest-winners-have-been-announced.34499/" class="internalLink">KYUHEN Homebrew Contest</a></span>, the PS Vita platform has been getting some new homebrew updates and ports from a familiar developer to all in the PS Vita community. Developer<b> <span style="color: #006600"><a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, @Rinnegatamante">@Rinnegatamante</a></span> </b>recently provided updates to <a href="https://www.psx-place.com/threads/vitaquakeiii-v1-0-vitavoyager-v0-8-new-updates-to-vitagl-provides-new-performance-boost.34500/" class="internalLink"><i>V<span style="font-size: 12px">itaQuakeIII (v1.0)</span></i></a><span style="font-size: 12px">,  <a href="https://www.psx-place.com/threads/re3-vita-grand-theft-auto-iii-port-updated-to-v1-4.34564/" class="internalLink"><i>re3-gta (v1.4)</i></a></span> and <span style="font-size: 12px"><a href="https://www.psx-place.com/threads/vitaquakeiii-v1-0-vitavoyager-v0-8-new-updates-to-vitagl-provides-new-performance-boost.34500/" class="internalLink"><i>VitaVoyager (v0.8)</i></a> </span>  Following those updates another project seen an update with the release of <i><a href="https://www.psx-place.com/threads/release-vitartcw-return-to-castle-wolfenstein-port-for-psvita-pstv.34575/#post-302713" class="internalLink"><b>VitaRTCW (v0.4</b>)</a> here in the psx-place forum's,.  <br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2021-6-14T10:08:16.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>KYUHEN  PS Vita / PSTV  Homebrew Contest Winner's have been announced!!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_32_32730-21f3c3ebccf1a3422759a1aa70d8079d.jpg</url>
