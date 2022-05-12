@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-4-12T05:12:48.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS4Load (by bucanero) - Load SELF files over Network</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_35_35654-5ceee82efc0d7fa259c9572d3d4cc801.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps4load-by-bucanero-load-self-files-over-network.37209/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_35_35654-5ceee82efc0d7fa259c9572d3d4cc801.jpg"><br><br><div style="text-align: center">Developer <b><a href="https://www.psx-place.com/members/48144/" class="username" data-user="48144, @bucanero">@bucanero</a></b> has another release for the PS4 Community, following the recent <a href="https://github.com/bucanero/apollo-ps4/releases" target="_blank" class="externalLink" rel="nofollow">PS4 Apollo Save Tool  </a>port there is another well known PS3 utility for homebrew development that is making it's way to the PS4. Many have known about <a href="https://store.brewology.com/ahomebrew.php?brewid=42" target="_blank" class="externalLink" rel="nofollow">PS3Load</a> / <b><a href="https://www.psx-place.com/threads/ps3loadx-v1-2.30665/" class="internalLink">PS3LoadX</a> </b>built from <a href="https://www.psx-place.com/threads/latest-psl1ght-developments-ps3-opensdk-in-2020.31107/" class="internalLink">PSL1GHT. </a> Now for the PS4 there is a new build using the Open Orbis SDK and now we have PS4Load.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-4-11T05:08:46.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>4.89 PS3 Firmware is now live. - Does it affect a Jailbroken / Homebrew Enabled  PS3?</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_35_35638-d7ab4573ef209c1ec98c435f1d5a5736.jpg</url>
