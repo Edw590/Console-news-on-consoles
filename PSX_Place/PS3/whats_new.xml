@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-4-25T12:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>RetroArch PS4 (OpenOrbis Port) official release on the horizon (PS4 support added to mainline Repo)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_35_35893-9f066c5852252e7e673249cdb685e158.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/retroarch-ps4-openorbis-port-official-release-on-the-horizon-ps4-support-added-to-mainline-repo.37384/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_35_35893-9f066c5852252e7e673249cdb685e158.jpg"><br><br><div style="text-align: center">If you follow the<a href="https://twitter.com/PSXPlace" target="_blank" class="externalLink" rel="nofollow"> <i>psx-place twitter feed</i></a>, you may of seen a <a href="https://twitter.com/libretro/status/1528848112680374276" target="_blank" class="externalLink" rel="nofollow"><i>retweet from libretro's official</i> </a>account yesterday, announcing the <b>RetroArch PS4</b> code being merged and adopted into the mainline RetroArch code repo, this mean soon we could see the official release of RetroArch PS4, as the official team has accepted the <a href="https://www.psx-place.com/forums/homebrew-development.248/" class="internalLink">OpenOrbis</a> Port submission from scene developer's . For sometime there has been an unofficial port of<a href="https://www.psx-place.com/threads/retroarch-ps4-r4-released-21-new-cores-added-ppsspp-mame-2015-new-dynarec-support-flycast.30137/" class="internalLink"> RetroArch PS4</a> by develope<b>r</b><span style="font-size: 12px"> <a href="https://www.psx-place.com/members/9178/" class="username" data-user="9178, @OsirisX">@OsirisX</a></span><b>, </b>who (unreleated to ps4) also shared recently his progress on the <i><span style="font-size: 12px"><a href="https://www.psx-place.com/threads/retroarch-psl1ght-progress.36858/" class="internalLink">psl1ght port for the PS3 here</a></span></i> forums, to help bring the PS3 back into the mainline RetroArch repo. As the official team removed the old PS3 port in favor of the Open Source psl1ght SDK.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-4-23T11:07:59.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS3HEN v3.1.1  &amp; HFW Officially updated with 4.89 Support  - (The PS3 Exploit for nonCFW PS3 Models)</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_35_35827-459d5682f505b859f100103453c7d1c2.jpg</url>
