@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-5-18T23:07:51.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>(UPDATE 2 ) Thefl0w discloses"Blu-ray Disc Java Sandbox Escape" vulnerabilities (PS3, PS4, PS5)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36122-48f721fc7edba48ceb6f3910765bd94c.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-2-thefl0w-discloses-blu-ray-disc-java-sandbox-escape-vulnerabilities-ps3-ps4-ps5.37554/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36122-48f721fc7edba48ceb6f3910765bd94c.jpg"><br><br><div style="text-align: center"><span style="color: #ff0000"><b>Update (See Tabs Below PS3 / PS4): </b></span><i>Since the disclosure several developer's have went on the hunt and we have seen PoC releases and TEST payload pushed, We have confirmation the PoC is working on 9.00, other have been testing impact on 9.03/.04. See all the details from developer's like<b> sleirsgoevy / <a href="https://www.psx-place.com/members/502/" class="username" data-user="502, @zecoxao">@zecoxao</a>  / psxdev </b><span style="font-size: 12px">(aka bigboss) </span></i>in the PS4 Tab. Some preliminary discussions about the PS3 impact have been discussed in this thread from various developer's like<b> <a href="https://www.psx-place.com/members/2198/" class="username" data-user="2198, @bguerville">@bguerville</a></b> and <a href="https://www.psx-place.com/members/502/" class="username" data-user="502, @zecoxao">@zecoxao</a>  <br/><br/><br/></dadi590_description>
+			<dadi590_creators>NuthinNew</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-5-17T23:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>{UPDATE) Thefl0w discloses"Blu-ray Disc Java Sandbox Escape" vulnerabilities affecting PS3, PS4, PS5</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36122-48f721fc7edba48ceb6f3910765bd94c.jpg</url>
