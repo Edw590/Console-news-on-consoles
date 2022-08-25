@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-7-25T09:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Latest Vita Homebrew by @Rinnegatamante includes Flycast (Dreamcast) / Nanosaur / Wordle / Tomb Rai.</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36916-04e40d7f841a0fe34948aff52d8d1aa8.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/latest-vita-homebrew-by-rinnegatamante-includes-flycast-dreamcast-nanosaur-wordle-tomb-rai.38191/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36916-04e40d7f841a0fe34948aff52d8d1aa8.jpg"><br><br><div style="text-align: center">PS Vita Develope<b>r <span style="color: #b30000"><a href="https://www.psx-place.com/members/60091/" class="username" data-user="60091, @Rinnegatamante">@Rinnegatamante</a></span></b> has shared several releases in the psx-place forum's over the past week(s), One of the highlights was released in recent days has been a major update to <span style="color: #006600"><b><a href="https://www.psx-place.com/threads/release-flycast-vita-v-1-0-sega-dreamcast-emulator-for-psvita-pstv.38180/" class="internalLink">Flycast Vita <i>- <span style="font-size: 12px">(A Sega Dreamcast emulator</span></i></a></b><span style="font-size: 12px"><i><b>)  </b></i></span></span>for the PS Vita and PlaStation TV (PSTV) . Updating from the initial release of <a href="https://www.psx-place.com/threads/dreamcast-emulation-comes-to-ps-vita-and-ps-tv-with-flycast-vita.32450/" class="internalLink">v0.1 from Jan. 2021</a> to <a href="https://www.psx-place.com/threads/release-flycast-vita-v-1-0-sega-dreamcast-emulator-for-psvita-pstv.38180/" class="internalLink">now v1.0.2 </a> with assistance from developer<b> <a href="https://www.psx-place.com/members/70967/" class="username" data-user="70967, @Bythos">@Bythos</a></b> for the latest update.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-6-08T09:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>OFFICIAL bguerville's PS3 Toolset v1.2.004 Update Now Live - Supporting 4.89 + NEW Features</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36440-61721f566b80cf874a0dc967a9dfcdd5.jpg</url>
