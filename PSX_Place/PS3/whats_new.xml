@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-7-31T13:07:54.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS4 Xplorer v2.0 (by Lapy) - Massive Overhaul of this File Manager with v2.0</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36961-94fb473f0383bb9d1f9189eae160fc2f.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps4-xplorer-v2-0-by-lapy-massive-overhaul-of-this-file-manager-with-v2-0.38237/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36961-94fb473f0383bb9d1f9189eae160fc2f.jpg"><br><br><div style="text-align: center"><i>Homebrew developer<b> <a href="https://www.psx-place.com/search/2523397/?q=lapy&o=relevance" class="internalLink">Lapy</a></b><a href="https://www.psx-place.com/search/2523397/?q=lapy&o=relevance" class="internalLink"> </a>who is known for his various releases on the PS4 and PS Vita, ranging from Games like <a href="https://www.psx-place.com/resources/duck-hunt-remake.844/" class="internalLink">Duck Hunt Remake</a> to useful Utility apps like PS4 Xplorer / <a href="https://www.psx-place.com/resources/ps4-app-lock.1152/" class="internalLink">Ps4 App Lock</a> just to name some of the developer's many projects. Has now turn his attention to a massive overhaul of that popular utility for the PS4, As <b>PS4 Xplorer </b>has been upgraded from v1.37 to v2.0 with lots of improvements for this long overdue update, This feature-rich File Manager does all the basic features of a file manager well with some added features like PKG Installation / FTP Support / Translation support for additional languages and much more.</i>​</div><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-7-25T09:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Latest Vita Homebrew by @Rinnegatamante includes Flycast (Dreamcast) / Nanosaur / Wordle / Tomb Rai.</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36916-04e40d7f841a0fe34948aff52d8d1aa8.jpg</url>
