@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-9-20T16:10:12.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>What is Evilnat brewing up in his next PS3 CFW Release?  4.89.3 in confirmed to be in development</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37385-e4cf196f66af9357a78ab89ec5077ed2.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/what-is-evilnat-brewing-up-in-his-next-ps3-cfw-release-4-89-3-in-confirmed-to-be-in-development.38489/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37385-e4cf196f66af9357a78ab89ec5077ed2.jpg"><br><br><div style="text-align: center">PlayStation 3 developer<b> <a href="https://www.psx-place.com/members/76/" class="username" data-user="76, @Evilnat">@Evilnat</a> </b>has been researching and developing some new features for his popular<a href="https://www.psx-place.com/threads/cfw-4-89-evilnat-cobra-8-3-cex.37294/" class="internalLink"><b> Evilnat's Cobra CFW</b></a> for the PS3.  Sony may have dropped official updates, but the development community has not stopped support and continues to pack new features and functionality directly into the firmware.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2022-9-20T16:10:12.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>"The next big thing[?]" for PS1&amp;PS2-Hacking? A small dive into a bright future via the MC-port!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37227-427fbbf33ef0684e07f8a63841287d0d.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/the-next-big-thing-for-ps1-ps2-hacking-a-small-dive-into-a-bright-future-via-the-mc-port.38484/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37227-427fbbf33ef0684e07f8a63841287d0d.jpg"><br><br><div style="text-align: center"><span style="font-size: 18px"><span style="color: #00b300"><b>The future of PS1&PS2-Hacking has JUST begun!</b></span></span>​</div><div style="text-align: center"><i>MemoryCard-port-"things" for PS1&PS2 are going to have a big influence in the future!<br/><br/><br/></dadi590_description>
+			<dadi590_creators>TnA</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-7-31T13:07:54.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS4 Xplorer v2.0 (by Lapy) - Massive Overhaul of this File Manager with v2.0</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_36_36961-94fb473f0383bb9d1f9189eae160fc2f.jpg</url>
