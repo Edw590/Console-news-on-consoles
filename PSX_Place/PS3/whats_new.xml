@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-10-11T01:07:40.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>RetroArch (PS4) Official Release is progressing, could we see an official PS4 debut soon?</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37521-25eaf4a8734642b4e87488a75ab55bde.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/retroarch-ps4-official-release-is-progressing-could-we-see-an-official-ps4-debut-soon.38653/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37521-25eaf4a8734642b4e87488a75ab55bde.jpg"><br><br><div style="text-align: center">Could we see an official RetroArch PS4 debut soon?  perhaps some recent clues suggest there is some preparations starting in that direction. A few days ago, PlayStation 4 developer <a href="https://github.com/frangarcj" target="_blank" class="externalLink" rel="nofollow">f<b>rangarcj</b> </a>has prepared a PR on the official <b><span style="font-size: 12px">RetroArch (libretro) github</span> </b>to begin the process for "<span style="font-family: 'Courier New'">an official PS4 Release</span>". There is no ETA to report as there appears to still be various task needed to complete this process, however this is a great sign to see for anyone hoping to see the official PS4 Release of the Retro experience.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2022-10-11T01:07:40.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[UPDATE x5] What is Evilnat brewing up in his next PS3 CFW Release?  4.89.3 in development</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37385-e4cf196f66af9357a78ab89ec5077ed2.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-x5-what-is-evilnat-brewing-up-in-his-next-ps3-cfw-release-4-89-3-in-development.38489/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37385-e4cf196f66af9357a78ab89ec5077ed2.jpg"><br><br><div style="text-align: center">PlayStation 3 developer<b> <a href="https://www.psx-place.com/members/76/" class="username" data-user="76, @Evilnat">@Evilnat</a> </b>has been researching and developing some new features for his popular<a href="https://www.psx-place.com/threads/cfw-4-89-evilnat-cobra-8-3-cex.37294/" class="internalLink"><b> Evilnat's Cobra CFW</b></a> for the PS3.  Sony may have dropped official updates, but the development community has not stopped support and continues to pack new features and functionality directly into the firmware. With 4.89.3 <a href="https://www.psx-place.com/threads/cfw-4-89-evilnat-cobra-8-3-cex.37294/page-20#post-346828" class="internalLink">now confirmed</a> in development by <a href="https://www.psx-place.com/members/76/" class="username" data-user="76, @Evilnat">@Evilnat</a><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-10-01T22:00:04.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[UPDATE x3] What is Evilnat brewing up in his next PS3 CFW Release?  4.89.3 in development</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37385-e4cf196f66af9357a78ab89ec5077ed2.jpg</url>
