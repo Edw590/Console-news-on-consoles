@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2022-10-15T03:07:19.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS3 Dynarec support on PicoDrive (Sega 32x &amp; Improved Sega CD) on the horizon from OsirisX</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37534-4111a0cfe5b73a558bb80f19491829fd.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps3-dynarec-support-on-picodrive-sega-32x-improved-sega-cd-on-the-horizon-from-osirisx.38675/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37534-4111a0cfe5b73a558bb80f19491829fd.jpg"><br><br><div style="text-align: center">Good news if your a fan of retro emulation and have a jailbroken PS3, as developer <span style="color: #0000b3"><b><a href="https://www.psx-place.com/members/9178/" class="username" data-user="9178, @OsirisX">@OsirisX</a> </b></span>has made a bit of a breakthrough for emulation on the PS3. Following OsirisX other emulation release's / contributions  like the <b><span style="font-size: 12px"><i><span style="font-family: 'Georgia'"><a href="https://www.psx-place.com/threads/retroarch-ps4-r4-released-21-new-cores-added-ppsspp-mame-2015-new-dynarec-support-flycast.30137/#post-249412" class="internalLink">unofficial PS4 port of RetroArch</a></span></i></span></b> and the progress of the <b><i><span style="font-family: 'Georgia'"><span style="font-size: 12px"><a href="https://www.psx-place.com/threads/retroarch-psl1ght-progress.36858/" class="internalLink">RetroArch Psl1ght PS3 port</a></span></span></i></b>  The developer is now tackling taking on a new adventure on the PS3.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2022-10-11T01:07:40.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>RetroArch (PS4) Official Release is progressing, could we see an official PS4 debut soon?</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37521-25eaf4a8734642b4e87488a75ab55bde.jpg</url>
