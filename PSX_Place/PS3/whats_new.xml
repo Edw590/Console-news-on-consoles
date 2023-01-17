@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2023-0-17T04:07:47.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Quakespasm-Spiked v1.6 Update released by @Rinnegatamante</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37999-0675e2b65142e3dd3a0ffda1ee60444a.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/quakespasm-spiked-v1-6-update-released-by-rinnegatamante.39095/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37999-0675e2b65142e3dd3a0ffda1ee60444a.jpg"><br><br><div style="text-align: center"><i><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2023-0-17T04:07:47.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Lapy's River Raid VR  - A PS4 VR Homebrew from LapyGames</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37993-b21e81f6c2a05d7a61783bf4fe55b884.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/lapys-river-raid-vr-a-ps4-vr-homebrew-from-lapygames.39093/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37993-b21e81f6c2a05d7a61783bf4fe55b884.jpg"><br><br><div style="text-align: center"><br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
+		<mtrl id="0" lastm="2023-0-17T04:07:47.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Dead Space v1.3  (Vita Port) Released by gl33ntwine</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37969-f46cc0e8033784ef5e12be70607d29a8.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/dead-space-v1-3-vita-port-released-by-gl33ntwine.39039/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37969-f46cc0e8033784ef5e12be70607d29a8.jpg"><br><br><div style="text-align: center">The release of v1.3 <b>Dead Space (Vita)</b> has been released by developer @<a href="https://vitadb.rinnegatamante.it/#/user/gl33ntwine" target="_blank" class="externalLink" rel="nofollow">gl33ntwine</a>, in this update the developer has made several improvements and enchanments with analog contols, FPS limiter option, to fix the audio cut off issue's the developer hopes increasing the audio buffer to 1MB will do the trick, See Complete changelog provided in the details below. <br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2023-0-16T04:00:04.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Lapy's River Raid Remake (VR Edition) - A PS4 VR Homebrew by Lapy</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_37_37993-b21e81f6c2a05d7a61783bf4fe55b884.jpg</url>
