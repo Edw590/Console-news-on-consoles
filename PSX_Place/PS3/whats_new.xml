@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2023-1-23T20:07:29.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[PS2 on PS5] RetroArch: PicoDrive, SMSplus, SNES9x2002, QuickNES, Gambatte &amp; Race Libretro Core's</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_38_38345-d15ded7f68256b63db57f35df49c980e.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps2-on-ps5-retroarch-picodrive-smsplus-snes9x2002-quicknes-gambatte-race-libretro-cores.39634/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_38_38345-d15ded7f68256b63db57f35df49c980e.jpg"><br><br><div style="text-align: center">As the <a href="https://cturt.github.io/mast1c0re.html" target="_blank" class="externalLink" rel="nofollow"> <b>Mast1c0re hack</b></a> <a href="https://mccaulay.co.uk/mast1c0re-part-2-arbitrary-ps2-code-execution/" target="_blank" class="externalLink" rel="nofollow">(2</a>) <a href="https://mccaulay.co.uk/mast1c0re-part-3-escaping-the-emulator/" target="_blank" class="externalLink" rel="nofollow">(3)</a> matures, we are seeing some PS2 homebrew appear for the Hack that is progressing on both the <span style="color: #006600"><b>PlayStation 5 (PS5) (6.50 firmware)</b></span> and also the <span style="color: #0059b3"><b>PlayStation 4 (PS4) (9.00+ firmware)</b></span>, the Mast1c0re hack is an exploit within ps2 emulation on both the PS4 and PS5 that has remained unpatched . Being a bit more useful on the PS5 in my opinion as it allows for some (ps2) homebrew through PS2 emulation, but the hack does also provide support for your PS2 backup collection as well.<br/><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2023-1-09T15:07:05.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>A new presentation on Sega Dreamcast and Nintendo DS emulation on the PSP</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_38_38247-391ac0a00b3ce3810bcbbcebcf8beff7.jpg</url>
