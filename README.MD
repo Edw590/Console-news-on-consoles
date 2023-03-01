@@ -3,7 +3,7 @@ Check the most recent console jailbreaking news
 
 ## To open the news webpage:
 ### On PSVita or newer (or on any other non-PlayStation device):
-Just come to this webpage: https://dadi590.github.io/Console-news-on-consoles/ (I think all newer than PS3 devices are supposed to be able to load the page normally).
+Just come to this webpage: https://edw590.github.io/Console-news-on-consoles/ (I think all newer than PS3 devices are supposed to be able to load the page normally).
 
 ### On PS3:
 #### For HAN, HEN or CFW:
