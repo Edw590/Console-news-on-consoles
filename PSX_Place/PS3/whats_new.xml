@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2023-2-03T00:00:02.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS3 Firmware 4.90 (OFW) is Live - Do Not Update, see full details!!!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_38_38403-8f2054c273ee78a48206d7dc62eca03b.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps3-firmware-4-90-ofw-is-live-do-not-update-see-full-details.39705/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_38_38403-8f2054c273ee78a48206d7dc62eca03b.jpg"><br><br><div style="text-align: center">As Sony tends to do, they like to come with a surprise firmware update when you least expect it and here they are with a surprise <a href="https://www.psx-place.com/threads/official-update-v4-90-is-live-official-hfw-and-hen-not-released-yet.39678/" class="internalLink"><b>4.90 firmware update</b></a>, now there has been some panic of potential changes and exploits that could be patched in 4.90,  well that is likely not the a worry, Since firmware 4.80 there has not  been any changes to the kernel, developer <a href="https://www.psx-place.com/members/29/" class="username" data-user="29, @Joonie">@Joonie</a> confirms in the forums<a href="https://www.psx-place.com/posts/357121/" class="internalLink"> here </a>that <a href="https://www.psx-place.com/posts/357121/" class="internalLink">4.90 use's the 4.80 kernel source</a> and since firmware 4.83 we have not seen any counter measure to deter homebrew capabilities on the console, Which that attempt (in 4.83) was countered by <a href="https://www.psx-place.com/members/29/" class="username" data-user="29, @Joonie">@Joonie</a> with the creation of HFW (OFW w/ 4.82 webkit). Since that time we have seen the towel thrown in as 4.84 /4.85 / 4.86 / 4.87 /4.88 / 4.89 and now likely in 4.90 (but anything could turn as devs update projects, but unlikely).  The update is the usual BluRay update and not much more, but good to see Sony still supporting the BluRay drive (as they should IMO).​</div><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description><br/><br/></dadi590_description>
+			<dadi590_creators>STLcardsWS</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2023-1-28T23:00:03.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[PS2 on PS5 / PS4] RetroArch PS2 (via Mast1c0re hack)  - Includes 10 Libretro Retro Core's playable</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_38_38345-d15ded7f68256b63db57f35df49c980e.jpg</url>
