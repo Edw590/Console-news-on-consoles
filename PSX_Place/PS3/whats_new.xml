@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2023-7-13T05:00:04.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Athena - A performant JavaScript Runtime Environment for the PS2</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_39_39424-c149d6d67bfee8b466d858a855d969d0.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/athena-a-performant-javascript-runtime-environment-for-the-ps2.41393/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+			<dadi590_description><img src="https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_39_39424-c149d6d67bfee8b466d858a855d969d0.jpg"><br><br><div style="text-align: center"><b><span style="color: #00b300">AthenaEnv (JS-Runtime) and the bright future of development on the PS2!</span></b>​</div><div style="text-align: center">​</div><div style="text-align: center">Most people know that the PS2 isn't quite an easy platform to develop on, but this has changed in recent years and we are at the point that we can create performant applications within Runtimes like what is going to be presented here.​</div><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description><br/><br/></dadi590_description>
+			<dadi590_creators>TnA</dadi590_creators>
+		</mtrl>
 		<mtrl id="0" lastm="2023-7-03T00:07:29.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>FuHEN Contest Submissions - The Four of Us Are Dying / Beat2x / Zik-Zak Vita / Sonic SMS 3 Timelines</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/Console-news-on-consoles/master/PSX_Place/PS3/https___www.psx-place.com_data_attachments_39_39485-31d0380a077a7d2565be7749dfc2416a.jpg</url>
